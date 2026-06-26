@@ -1,0 +1,5 @@
+- [ ] Read all projects codebases
+- [ ] Discuss OSS ppts
+- [ ] Evaluate knowledge on all technical tests
+- [ ] Build a kernel module
+- [ ] Fix Logitech Kernel Module wrt Startup/LUKS2
