@@ -3,3 +3,8 @@
 - [ ] Evaluate knowledge on all technical tests
 - [ ] Build a kernel module
 - [ ] Fix Logitech Kernel Module wrt Startup/LUKS2
+- [ ] Documentation and finalization of eSC-V
+- [ ] Cureus Journal Publication
+- [ ] Backup LUKS2 Header
+- [ ] Setup Snapshot
+- [ ] Setup Swap
