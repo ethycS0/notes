@@ -8,3 +8,6 @@
 - [ ] Backup LUKS2 Header
 - [ ] Setup Snapshot
 - [ ] Setup Swap
+- [ ] Read malloc implementation
+- [ ] Turn duckduckgo
+- [ ] 
