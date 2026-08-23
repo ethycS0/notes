@@ -1,2 +1,0 @@
-- Simple flake importing nixpkgs and flake-utils. 
-- Using packages gcc, gnumake and bear for Makefiles, compilation toolchain and lsp

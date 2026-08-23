@@ -1,13 +1,11 @@
-- [ ] Read all projects codebases
-- [ ] Discuss OSS ppts
-- [ ] Evaluate knowledge on all technical tests
-- [ ] Build a kernel module
-- [ ] Fix Logitech Kernel Module wrt Startup/LUKS2
-- [ ] Documentation and finalization of eSC-V
-- [ ] Cureus Journal Publication
-- [ ] Backup LUKS2 Header
-- [ ] Setup Snapshot
-- [ ] Setup Swap
-- [ ] Read malloc implementation
-- [ ] Turn duckduckgo
-- [ ] 
+Read all projects codebases
+Discuss OSS ppts
+Cureus Journal Publication
+Backup LUKS2 Header
+Setup Snapshot
+Data Structure Notes
+DSA notes cleanup
+Algortihms
+System Design Question
+System Design Notes Cleanup
+C++ Revision
