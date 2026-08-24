@@ -1,4 +1,6 @@
-Previous: [[Longest Mountain in Array (M)]] | Next: [[Minimum Absolute Difference (E)]]
+Previous: [[Move Zeroes (E)]] | Next: [[Minimum Size Subarray Sum (M)]]
+
+https://leetcode.com/problems/contains-duplicate-ii/
 
 You are given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k, otherwise return false.
 

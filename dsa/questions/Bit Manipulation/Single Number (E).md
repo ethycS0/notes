@@ -1,4 +1,6 @@
-Previous: [[Minimum Size Subarray Sum (M)]] | Next: [[Coin Change (M)]]
+Previous: [[Merge Strings Alternately (E)]] | Next: [[Number of 1 Bits (E)]]
+
+https://leetcode.com/problems/single-number/
 
 You are given a non-empty array of integers nums. Every integer appears twice except for one.
 

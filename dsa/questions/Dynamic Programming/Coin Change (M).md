@@ -1,4 +1,6 @@
-Previous: [[Single Number (E)]] | Next: [[Climbing Stairs (E)]]
+Previous: [[Add Two Integers (E)]] | Next: [[Climbing Stairs (E)]]
+
+https://leetcode.com/problems/coin-change/
 
 You are given an integer array coins representing coins of different denominations (e.g. 1 dollar, 5 dollars, etc) and an integer amount representing a target amount of money.
 

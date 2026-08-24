@@ -1,5 +1,7 @@
 # Hash Tables
 
+**C++ Reference**: [std::unordered_map](https://en.cppreference.com/w/cpp/container/unordered_map) | [std::unordered_set](https://en.cppreference.com/w/cpp/container/unordered_set)
+
 ## Overview
 A Hash Table is an associative data structure that maps keys to values using a **Hash Function** to compute an index into an array of buckets.
 

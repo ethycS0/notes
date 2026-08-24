@@ -1,5 +1,7 @@
 # Static Arrays
 
+**C++ Reference**: [std::array](https://en.cppreference.com/w/cpp/container/array) | [std::vector](https://en.cppreference.com/w/cpp/container/vector)
+
 ## Overview
 A static array is a contiguous memory allocation storing elements of identical data types with a fixed size determined at compile time.
 

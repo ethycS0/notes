@@ -1,5 +1,7 @@
 # Queue
 
+**C++ Reference**: [std::queue](https://en.cppreference.com/w/cpp/container/queue) | [std::deque](https://en.cppreference.com/w/cpp/container/deque)
+
 ## Overview
 A Queue is a linear data structure following the **FIFO (First-In, First-Out)** principle. Elements are inserted at the **rear (back)** and removed from the **front**.
 

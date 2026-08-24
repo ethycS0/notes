@@ -1,5 +1,7 @@
 Previous: [[Binary Tree Level Order Traversal (M)]] | Next: [[Path Sum (E)]]
 
+https://leetcode.com/problems/same-tree/
+
 Given the roots of two binary trees p and q, return true if the trees are equivalent, otherwise return false.
 
 Two binary trees are considered equivalent if they share the exact same structure and the nodes have the same values.

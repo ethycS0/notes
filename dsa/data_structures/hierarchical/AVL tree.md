@@ -1,5 +1,7 @@
 # AVL Tree
 
+**C++ Reference**: [std::set](https://en.cppreference.com/w/cpp/container/set)
+
 ## Overview
 An AVL Tree (named after inventors Adelson-Velsky and Landis) is a self-balancing Binary Search Tree (BST) where the height difference between left and right subtrees of any node is at most 1.
 

@@ -1,5 +1,7 @@
 # Min Heap
 
+**C++ Reference**: [std::priority_queue](https://en.cppreference.com/w/cpp/container/priority_queue) | [std::make_heap](https://en.cppreference.com/w/cpp/algorithm/make_heap)
+
 ## Overview
 A Min Heap is a Complete Binary Tree where the key at the parent node is less than or equal to the keys of its children.
 

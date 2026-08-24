@@ -1,4 +1,6 @@
-Previous: [[Lowest Common Ancestor of a Binary Tree (M)]] | Next: [[Insert into a Binary Search Tree (M)]]
+Previous: [[Minimum and Maximum Value of a Binary Tree (LOL)]] | Next: [[Insert into a Binary Search Tree (M)]]
+
+https://leetcode.com/problems/search-in-a-binary-search-tree/
 
 You are given the root of a binary search tree (BST) and an integer val.
 

@@ -1,4 +1,4 @@
-Previous: [[Maximum Depth of Binary Tree (E)]] | Next: [[Binary Tree Level Order Traversal (M)]]
+Previous: [[Balanced Binary Tree (E)]] | Next: [[Search in a Binary Search Tree (E)]]
 
 Given the root of an unsorted binary tree, find and return both the minimum and maximum values stored in the tree.
 

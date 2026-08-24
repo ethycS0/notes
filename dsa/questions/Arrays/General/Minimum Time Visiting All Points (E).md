@@ -1,5 +1,7 @@
 Previous: [[How Many Numbers Are Smaller Than the Current Number (E)]] | Next: [[Spiral Matrix (M)]]
 
+https://leetcode.com/problems/minimum-time-visiting-all-points/
+
 On a 2D plane, there are n points with integer coordinates points[i] = [xi, yi]. Return the minimum time in seconds to visit all the points in the order given by points.
 
 You can move according to these rules:

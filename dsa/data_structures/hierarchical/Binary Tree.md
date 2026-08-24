@@ -1,5 +1,7 @@
 # Binary Tree
 
+**C++ Reference**: [std::queue](https://en.cppreference.com/w/cpp/container/queue)
+
 ## Overview
 A Binary Tree is a non-linear hierarchical data structure in which each node has at most two children, referred to as the **left child** and **right child**.
 

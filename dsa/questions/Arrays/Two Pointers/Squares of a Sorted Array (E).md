@@ -1,4 +1,6 @@
-Previous: [[Best Time to Buy and Sell Stock (E)]] | Next: [[3Sum (M)]]
+Previous: [[Longest Mountain in Array (M)]] | Next: [[Remove Duplicates from Sorted Array (E)]]
+
+https://leetcode.com/problems/squares-of-a-sorted-array/
 
 You are given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
 

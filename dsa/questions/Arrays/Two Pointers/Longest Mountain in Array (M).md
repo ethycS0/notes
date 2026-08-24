@@ -1,4 +1,6 @@
-Previous: [[3Sum (M)]] | Next: [[Contains Duplicate II (E)]]
+Previous: [[3Sum (M)]] | Next: [[Squares of a Sorted Array (E)]]
+
+https://leetcode.com/problems/longest-mountain-in-array/
 
 You may recall that an array arr is a mountain array if and only if:
 

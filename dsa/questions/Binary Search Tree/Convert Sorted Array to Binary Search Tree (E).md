@@ -1,4 +1,6 @@
-Previous: [[Insert into a Binary Search Tree (M)]] | Next: [[Two Sum IV - Input is a BST]]
+Previous: [[Insert into a Binary Search Tree (M)]] | Next: [[Two Sum IV - Input is a BST (E)]]
+
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 
 Given an integer array nums where the elements are sorted in ascending order, convert it to a height-balanced binary search tree.
 

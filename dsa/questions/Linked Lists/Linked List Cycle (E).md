@@ -1,5 +1,7 @@
 Previous: [[Middle of the Linked List (E)]] | Next: [[Reverse a Linked List (E)]]
 
+https://leetcode.com/problems/linked-list-cycle/
+
 Given the beginning of a linked list head, return true if there is a cycle in the linked list. Otherwise, return false.
 
 There is a cycle in a linked list if at least one node in the list can be visited again by following the next pointer.

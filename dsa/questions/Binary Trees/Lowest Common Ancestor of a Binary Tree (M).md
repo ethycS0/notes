@@ -1,4 +1,6 @@
-Previous: [[Invert Binary Tree (E)]] | Next: [[Search in a Binary Search Tree (E)]]
+Previous: [[Invert Binary Tree (E)]] | Next: [[Balanced Binary Tree (E)]]
+
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
 You are given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.
 

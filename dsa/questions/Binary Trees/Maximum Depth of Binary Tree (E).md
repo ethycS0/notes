@@ -1,4 +1,6 @@
-Previous: [[Minimum Depth of Binary Tree (E)]] | Next: [[Minimum and Maximum Value of a Binary Tree (LOL)]]
+Previous: [[Minimum Depth of Binary Tree (E)]] | Next: [[Binary Tree Level Order Traversal (M)]]
+
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 Given the root of a binary tree, return its depth.
 

@@ -1,5 +1,7 @@
 # Singly Linked List
 
+**C++ Reference**: [std::forward_list](https://en.cppreference.com/w/cpp/container/forward_list) | [std::list](https://en.cppreference.com/w/cpp/container/list)
+
 ## Overview
 A linear data structure consisting of nodes where each node contains data and a pointer (`next`) to the next node in the sequence.
 

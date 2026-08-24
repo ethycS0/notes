@@ -1,5 +1,7 @@
 Previous: [[Diameter of Binary Tree (E)]] | Next: [[Lowest Common Ancestor of a Binary Tree (M)]]
 
+https://leetcode.com/problems/invert-binary-tree/
+
 You are given the root of a binary tree root. Invert the binary tree and return its root.
 
 ## Solution

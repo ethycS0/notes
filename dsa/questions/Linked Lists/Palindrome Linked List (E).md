@@ -1,5 +1,7 @@
 Previous: [[Reverse Linked List II (M)]] | Next: [[Merge Two Sorted Linked Lists (E)]]
 
+https://leetcode.com/problems/palindrome-linked-list/
+
 You are given the head of a singly linked list, return true if it is a palindrome or false otherwise.
 
 A palindrome is a sequence that reads the same forward and backward.

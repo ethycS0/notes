@@ -1,5 +1,7 @@
 Previous: [[Remove Linked List Elements (E)]] | Next: [[Palindrome Linked List (E)]]
 
+https://leetcode.com/problems/reverse-linked-list-ii/
+
 You are given the head of a singly linked list and two integers left and right where left <= right, reverse the nodes of the list from position left to position right (1-indexed), and return the reversed list.
 
 ## Solution

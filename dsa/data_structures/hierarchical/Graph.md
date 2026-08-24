@@ -1,5 +1,7 @@
 # Graph
 
+**C++ Reference**: [std::vector](https://en.cppreference.com/w/cpp/container/vector) | [std::unordered_map](https://en.cppreference.com/w/cpp/container/unordered_map)
+
 ## Overview
 A Graph $G = (V, E)$ is a non-linear data structure composed of a set of **Vertices (Nodes, $V$)** and **Edges (Connections, $E$)**.
 

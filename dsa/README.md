@@ -2,129 +2,217 @@
 
 - Read Question Twice word for word
 - Ask clarifying questions
-- Think multiple ways to solve 
+- Think multiple ways to solve
 - Think of the best way
 - Think about edge cases
 - Create a mental (or write down an) algorithm
 - Code it out
 - Improve
 - Feedback / Read other solutions
+
 ## Big O notation
 
-- Constant     O(1)
-- Logarithmic  O(logn)
-- Sublinear    O($\sqrt{n}$)
-- Linear       O(n)
+- Constant O(1)
+- Logarithmic O(logn)
+- Sublinear O($\sqrt{n}$)
+- Linear O(n)
 - Linearithmic O(n.logn)
-- Quadratic    O(n<sup>2</sup>)
-- Cubic        O(n<sup>3</sup>)
-- Exponential  O(2<sup>n</sup>)
-- Factorial    O(n!)
+- Quadratic O(n<sup>2</sup>)
+- Cubic O(n<sup>3</sup>)
+- Exponential O(2<sup>n</sup>)
+- Factorial O(n!)
+
+## Data Structures
+
+### Standard
+- [[Arrays]]
+- [[Linked Lists]]
+- [[Stack]]
+- [[Queue]]
+- [[Hash Tables]]
+
+### Hierarchical
+- [[Binary Tree]]
+- [[Binary Search Tree]]
+- [[AVL tree]]
+- [[Heap]]
+- [[Graph]]
+
+## Algorithms
+- [[Sort]]
+- [[Search]]
 ## Questions
 
-### Arrays
-#### General
+---
+### Arrays & Matrix
 
-1. [[Contains Duplicatea (E)]]
+#### General & Traversal
+
+1. [[Contains Duplicate (E)]]
 2. [[Missing Number (E)]]
 3. [[Find All Numbers Disappeared in An Array (E)]]
 4. [[Two Sum (E)]]
 5. [[How Many Numbers Are Smaller Than the Current Number (E)]]
 6. [[Minimum Time Visiting All Points (E)]]
 7. [[Spiral Matrix (M)]]
-8. [[Number of Islands (M)]] 
+8. [[Rotate Array (M)]]
+9. [[Find Common Elements Between Two Arrays (E)]]
+
 #### Two Pointers
 
-9. [[Best Time to Buy and Sell Stock (E)]]
-10. [[Squares of a Sorted Array (E)]]
-11. [[3Sum (M)]]
-12. [[Longest Mountain in Array (M)]]
+10. [[3Sum (M)]]
+11. [[Longest Mountain in Array (M)]]
+12. [[Squares of a Sorted Array (E)]]
+13. [[Remove Duplicates from Sorted Array (E)]]
+14. [[Remove Element (E)]]
+15. [[Remove Duplicates from Sorted Array II (M)]]
+16. [[Merge Sorted Array (E)]]
+17. [[Valid Palindrome (E)]]
+18. [[Two Sum II - Input Array Is Sorted (M)]]
+19. [[Move Zeroes (E)]]
 
-#### Sliding Window
+#### Sliding Window & Greedy
 
-13. [[Contains Duplicate II (E)]]
-14. [[Minimum Absolute Difference (E)]]
-15. [[Minimum Size Subarray Sum (M)]]
+20. [[Contains Duplicate II (E)]]
+21. [[Minimum Size Subarray Sum (M)]]
+22. [[Best Time to Buy and Sell Stock (E)]]
+23. [[Best Time to Buy and Sell Stock II (M)]]
+24. [[Maximum Average Subarray I (E)]]
+25. [[Can Place Flowers (E)]]
+26. [[Kids With the Greatest Number of Candies (E)]]
 
-### Bit Manipulation
+#### Prefix Sum & Sorting
 
-16. [[Single Number (E)]]
+27. [[Majority Element (E)]]
+28. [[Product of Array Except Self (M)]]
+29. [[Find Pivot Index (E)]]
+30. [[Find the Highest Altitude (E)]]
+31. [[Range Sum Query - Immutable (E)]]
+32. [[Minimum Absolute Difference (E)]]
+33. [[Find Nearest Point That Has the Same X or Y Coordinate (E)]]
+
+---
+
+### Strings & Hashing
+
+34. [[Reverse Words in a String (M)]]
+35. [[Valid Anagram (E)]]
+36. [[Reverse Vowels of a String (E)]]
+37. [[Is Subsequence (E)]]
+38. [[Greatest Common Divisor of Strings (E)]]
+39. [[Merge Strings Alternately (E)]]
+
+---
+
+### Bit Manipulation & Math
+
+40. [[Single Number (E)]]
+41. [[Number of 1 Bits (E)]]
+42. [[Number of Even and Odd Bits (E)]]
+43. [[Add Two Integers (E)]]
+
+---
 
 ### Dynamic Programming
 
-17. [[Coin Change (M)]]
-18. [[Climbing Stairs (E)]]
-19. [[Maximum Subarray (M)]]
-20. [[Counting Bits (E)]]
-21. [[Range Sum Query Immutable (E)]]
+44. [[Coin Change (M)]]
+45. [[Climbing Stairs (E)]]
+46. [[Maximum Subarray (M)]]
+47. [[Counting Bits (E)]]
+
+---
 
 ### Backtracking
 
-22. [[Letter Case Permutation (M)]]
-23. [[Subsets (M)]]
-24. [[Combinations (M)]]
-25. [[Permutations (M)]]
+48. [[Letter Case Permutation (M)]]
+49. [[Subsets (M)]]
+50. [[Combinations (M)]]
+51. [[Permutations (M)]]
+
+---
 
 ### Linked Lists
 
-26. [[Middle of the Linked List (E)]]
-27. [[Linked List Cycle (E)]]
-28. [[Reverse a Linked List (E)]]
-29. [[Remove Linked List Elements (E)]]
-30. [[Reverse Linked List II (M)]]
-31. [[Palindrome Linked List (E)]]
-32. [[Merge Two Sorted Linked Lists (E)]]
+52. [[Middle of the Linked List (E)]]
+53. [[Linked List Cycle (E)]]
+54. [[Reverse a Linked List (E)]]
+55. [[Remove Linked List Elements (E)]]
+56. [[Reverse Linked List II (M)]]
+57. [[Palindrome Linked List (E)]]
+58. [[Merge Two Sorted Linked Lists (E)]]
 
-### Stack
+---
 
-33. [[Min Stack (M)]] 
-34. [[Valid Parenthesis (E)]]
-35. [[Evaluate Reverse Polish Notation (M)]] 
-36. [[Stack Sorting (LOL)]]
+### Stacks & Queues
 
-### Queues
+59. [[Min Stack (M)]]
+60. [[Valid Parentheses (E)]]
+61. [[Evaluate Reverse Polish Notation (M)]]
+62. [[Removing Stars From a String (M)]]
+63. [[Implement Stack Using Queues (E)]]
+64. [[Time Needed to Buy Tickets (E)]]
+65. [[Stack Sorting (LOL)]]
+66. [[Reverse First K elements of a Queue (LOL)]]
 
-37. [[Implement Stack Using Queues (E)]] 
-38. [[Time Needed to Buy Tickets (E)]]
-39. [[Reverse First K elements of a Queue (LOL)]]
+---
+
+### System Design & Data Structures
+
+67. [[LRU Cache (M)]]
+
+---
+
+### Binary Search
+
+68. [[Binary Search (E)]]
+
+---
 
 ### Binary Trees
 
-40. [[Average of Levels in Binary Tree (E)]]
-41. [[Minimum Depth of Binary Tree (E)]]
-42. [[Maximum Depth of Binary Tree (E)]]
-43. [[Minimum and Maximum Value of a Binary Tree (LOL)]]
-44. [[Binary Tree Level Order Traversal (M)]]
-45. [[Same Tree (E)]]
-46. [[Path Sum (E)]]
-47. [[Diameter of Binary Tree (E)]]
-48. [[Invert Binary Tree (E)]]
-49. [[Lowest Common Ancestor of a Binary Tree (M)]]
+69. [[Average of Levels in Binary Tree (E)]]
+70. [[Minimum Depth of Binary Tree (E)]]
+71. [[Maximum Depth of Binary Tree (E)]]
+72. [[Binary Tree Level Order Traversal (M)]]
+73. [[Same Tree (E)]]
+74. [[Path Sum (E)]]
+75. [[Diameter of Binary Tree (E)]]
+76. [[Invert Binary Tree (E)]]
+77. [[Lowest Common Ancestor of a Binary Tree (M)]]
+78. [[Balanced Binary Tree (E)]]
+79. [[Minimum and Maximum Value of a Binary Tree (LOL)]]
 
-### Binary Search Trees
+---
 
-50. [[Search in a Binary Search Tree (E)]]
-51. [[Insert into a Binary Search Tree (M)]]
-52. [[Convert Sorted Array to Binary Search Tree (E)]]
-53. [[Two Sum IV - Input is a BST]]
-54. [[Lowest Common Ancestor in Binary Search Tree (M)]]
-55. [[Minimum Absolute Difference in Binary Search Tree (E)]]
-56. [[Balance a Binary Search Tree (M)]]
-57. [[Delete Node in a Binary Search Tree (M)]]
-58. [[Kth Smallest Element in a Binary Search Tree (M)]]
+### Binary Search Trees (BST)
+
+80. [[Search in a Binary Search Tree (E)]]
+81. [[Insert into a Binary Search Tree (M)]]
+82. [[Convert Sorted Array to Binary Search Tree (E)]]
+83. [[Two Sum IV - Input is a BST (E)]]
+84. [[Lowest Common Ancestor in Binary Search Tree (M)]]
+85. [[Minimum Absolute Difference in Binary Search Tree (E)]]
+86. [[Balance a Binary Search Tree (M)]]
+87. [[Delete Node in a Binary Search Tree (M)]]
+88. [[Kth Smallest Element in a Binary Search Tree (M)]]
+
+---
 
 ### Heaps // TODO
 
-59. [[Kth Largest Element in an Array (M)]]
-60. [[K Closest Points to Origin (M)]]
-61. [[Top K Frequent Elements (M)]]
-62. [[Task Schedular (M)]]
+89. [[Kth Largest Element in an Array (M) TODO]]
+90. [[K Closest Points to Origin (M) TODO]]
+91. [[Top K Frequent Elements (M) TODO]]
+92. [[Task Scheduler (M) TODO]]
 
-### Graphs // TODO
+---
 
-63. [[Breadth First Traversal of a Graph (LOL)]]
-64. [[Depth First Traversal of a Graph (LOL)]]
-65. [[Clone Graph (M)]]
-66. [[Core Graph Operations (LOL)]]
-67. [[Cheapest Flights Within K Stops (M)]]
-68. [[Course Schedule (M)]]
+### Graphs & Grid Traversal // TODO
+
+93. [[Number of Islands (M)]]
+94. [[Breadth First Traversal of a Graph (LOL) TODO]]
+95. [[Depth First Traversal of a Graph (LOL) TODO]]
+96. [[Clone Graph (M) TODO]]
+97. [[Core Graph Operations (LOL) TODO]]
+98. [[Cheapest Flights Within K Stops (M) TODO]]
+99. [[Course Schedule (M) TODO]]

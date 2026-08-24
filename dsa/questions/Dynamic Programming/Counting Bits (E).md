@@ -1,4 +1,6 @@
-Previous: [[Maximum Subarray (M)]] | Next: [[Range Sum Query Immutable (E)]]
+Previous: [[Maximum Subarray (M)]] | Next: [[Letter Case Permutation (M)]]
+
+https://leetcode.com/problems/counting-bits/
 
 Given an integer n, count the number of 1's in the binary representation of every number in the range [0, n].
 

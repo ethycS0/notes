@@ -1,4 +1,6 @@
-Previous: [[Minimum Time Visiting All Points (E)]] | Next: [[Number of Islands (M)]]
+Previous: [[Minimum Time Visiting All Points (E)]] | Next: [[Rotate Array (M)]]
+
+https://leetcode.com/problems/spiral-matrix/
 
 Given an m x n matrix of integers matrix, return a list of all elements within the matrix in spiral order.
 

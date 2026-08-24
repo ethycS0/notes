@@ -1,5 +1,7 @@
 # Binary Search Tree
 
+**C++ Reference**: [std::set](https://en.cppreference.com/w/cpp/container/set) | [std::map](https://en.cppreference.com/w/cpp/container/map)
+
 ## Overview
 A Binary Search Tree (BST) is a node-based binary tree data structure maintaining the **BST Invariant**:
 - Left subtree of a node contains only nodes with keys **less than** the node's key.

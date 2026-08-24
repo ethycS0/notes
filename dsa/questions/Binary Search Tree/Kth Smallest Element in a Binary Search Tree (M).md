@@ -1,4 +1,6 @@
-Previous: [[Delete Node in a Binary Search Tree (M)]] | Next: [[Kth Largest Element in an Array (M)]]
+Previous: [[Delete Node in a Binary Search Tree (M)]] | Next: [[Kth Largest Element in an Array (M) TODO]]
+
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 Given the root of a binary search tree, and an integer k, return the kth smallest value (1-indexed) in the tree.
 

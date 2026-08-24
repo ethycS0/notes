@@ -1,4 +1,6 @@
-Previous: [[Two Sum IV - Input is a BST]] | Next: [[Minimum Absolute Difference in Binary Search Tree (E)]]
+Previous: [[Two Sum IV - Input is a BST (E)]] | Next: [[Minimum Absolute Difference in Binary Search Tree (E)]]
+
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
 Given a binary search tree (BST) where all node values are unique, and two nodes from the tree p and q, return the lowest common ancestor (LCA) of the two nodes.
 

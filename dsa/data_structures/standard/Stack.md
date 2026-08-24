@@ -1,5 +1,7 @@
 # Stack
 
+**C++ Reference**: [std::stack](https://en.cppreference.com/w/cpp/container/stack)
+
 ## Overview
 A Stack is a linear data structure operating on the **LIFO (Last-In, First-Out)** principle. Elements are added (pushed) and removed (popped) from the same end, referred to as the **top**.
 

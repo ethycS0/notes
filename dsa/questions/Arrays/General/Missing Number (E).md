@@ -1,4 +1,6 @@
-Previous: [[Contains Duplicatea (E)]] | Next: [[Find All Numbers Disappeared in An Array (E)]]
+Previous: [[Contains Duplicate (E)]] | Next: [[Find All Numbers Disappeared in An Array (E)]]
+
+https://leetcode.com/problems/missing-number/
 
 Given an array nums containing n integers in the range 0, n without any duplicates, return the single number in the range that is missing from nums.
 
