@@ -1,5 +1,5 @@
 
-[[INDEX|← Back to Index]]
+[[c++/effective_modern_c++/INDEX|← Back to Index]]
 
 ## Item 41: Consider pass by value for copyable parameters that are cheap to move and always copied
 
@@ -17,4 +17,4 @@
 
 ---
 
-[[INDEX|← Index]] | [[Chapter 7 - The Concurrency API|← Previous Chapter]]
+[[c++/effective_modern_c++/INDEX|← Index]] | [[Chapter 7 - The Concurrency API|← Previous Chapter]]

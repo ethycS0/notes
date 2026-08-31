@@ -1,5 +1,5 @@
 
-[[INDEX|← Back to Index]]
+[[c++/effective_modern_c++/INDEX|← Back to Index]]
 
 ## Item 1: Understand template type deduction
 
@@ -32,4 +32,4 @@
 
 ---
 
-[[INDEX|← Index]] | [[Chapter 2 - auto|Next Chapter →]]
+[[c++/effective_modern_c++/INDEX|← Index]] | [[Chapter 2 - auto|Next Chapter →]]

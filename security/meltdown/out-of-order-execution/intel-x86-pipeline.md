@@ -1,0 +1,14 @@
+[[INDEX]] | [[general-concept]] | [[tomasulo-algorithm]] | [[exception-handling-and-retirement]]
+
+Modern Intel x86 microarchitectures implement out-of-order execution through a hybrid pipeline divided into three major subsystems: the Front-End, the Execution Engine (Back-End), and the Memory Subsystem. Because the x86 Complex Instruction Set Computer (CISC) ISA features complex, variable-length instructions, the processor cannot execute raw x86 instructions directly out of order. Instead, the Front-End fetches x86 instructions, predicts branches, and decodes them into simple, RISC-like micro-operations ($\mu$OPs) which are fed continuously into the execution pipeline.
+
+![[Pasted image 20260830140713.png]]
+
+The Execution Engine processes these decoded $\mu$OPs out of order. At its core sits the Allocation/Renaming stage and the Reorder Buffer (ROB). The ROB allocates internal physical registers and manages register renaming, resolving false data dependencies. It also applies microarchitectural optimizations directly, such as move elimination (resolving `mov` instructions without firing an execution unit) and zeroing idioms (recognizing instructions like `xor eax, eax` to set registers to zero without latency). Once renamed, $\mu$OPs are forwarded to the Unified Reservation Station (Scheduler). The scheduler queues operations across multiple dispatch exit ports connected to specialized Execution Units—including Arithmetic Logic Units (ALUs), vector processing units, Address Generation Units (AGUs), and memory load/store units.
+
+The Memory Subsystem handles memory access operations dispatched by AGUs and load/store execution units. Load and store operations are buffered in the Load Buffer and Store Buffer to maintain memory ordering semantics. The subsystem relies on multi-level translation lookaside buffers (DTLB and STLB) to translate virtual addresses to physical addresses, alongside hierarchical data caches (L1 Instruction Cache, L1 Data Cache, L2 Cache, and Last-Level Cache). When a load execution unit issues a memory read, it queries the L1 data cache in parallel with page table translations.
+
+The critical security vulnerability highlighted in the Meltdown paper stems from the decoupling between the Execution Engine and the privilege checks in the Memory Subsystem. When a user-space $\mu$OP requests data from a kernel virtual address, the load unit fetches the secret data from the L1 cache into a internal temporary register so that downstream out-of-order $\mu$OPs can immediately consume it. However, the permission check (verifying user vs. supervisor page flags) is evaluated asynchronously. While the microarchitecture will eventually abort the instruction at retirement via the Reorder Buffer, the transient $\mu$OPs have already executed and left microarchitectural footprints in the L1 cache.
+
+---
+*Next Note: [[exception-handling-and-retirement]]*

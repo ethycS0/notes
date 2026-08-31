@@ -1,5 +1,5 @@
 
-[[INDEX|← Back to Index]]
+[[c++/effective_modern_c++/INDEX|← Back to Index]]
 
 ## Item 5: Prefer auto to explicit type declarations
 
@@ -15,4 +15,4 @@
 
 ---
 
-[[INDEX|← Index]] | [[Chapter 1 - Deducing Types|← Previous Chapter]] | [[Chapter 3 - Moving to Modern C++|Next Chapter →]]
+[[c++/effective_modern_c++/INDEX|← Index]] | [[Chapter 1 - Deducing Types|← Previous Chapter]] | [[Chapter 3 - Moving to Modern C++|Next Chapter →]]

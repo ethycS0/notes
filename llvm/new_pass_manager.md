@@ -109,7 +109,6 @@ return PA;
 
 ```cpp
 static bool isRequired() { return true; }
-
 ```
 
 By default, Clang decorates functions with the `optnone` attribute when compiled with `-O0`. The Pass Manager skips non-essential passes on `optnone` functions unless this method returns `true`.

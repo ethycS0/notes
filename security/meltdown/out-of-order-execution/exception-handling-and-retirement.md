@@ -1,0 +1,12 @@
+[[INDEX]] | [[general-concept]] | [[tomasulo-algorithm]] | [[intel-x86-pipeline]]
+
+Instruction Retirement is the final stage of the out-of-order pipeline where transient microarchitectural states are permanently committed to the architectural state of the CPU. The Reorder Buffer (ROB) functions as a first-in, first-out (FIFO) queue that tracks every issued micro-operation ($\mu$OP) in strict program order. Although $\mu$OPs execute out of order across various functional units as soon as their data dependencies clear, they cannot modify architectural registers or memory until they reach the head (top) of the ROB FIFO queue and retire.
+
+When an instruction encounters an exception during execution—such as a page fault (`#PF`) caused by an unauthorized kernel memory access—the execution unit does not immediately trigger an OS exception handler. Instead, it marks the corresponding entry in the Reorder Buffer with an exception flag and stores the fault status internally. All downstream instructions that were dispatched after the faulting instruction continue to execute out of order speculatively. This period between out-of-order execution and retirement is known as the transient execution window.
+
+When the faulting instruction finally reaches the head of the ROB and attempts to retire, the CPU detects the exception flag. At this point, the processor halts retirement, flushes the entire Reorder Buffer, clears the reservation stations, and restores architectural registers to the state prior to the faulting instruction. This rollback mechanism successfully prevents invalid data from polluting architectural registers or memory.
+
+However, the hardware rollback mechanism only cleans up architectural state; it does not undo changes made to microarchitectural state. During the transient execution window, dependent instructions executed speculatively using the illegally fetched data. If one of those transient instructions accessed a user-space memory address based on the secret kernel byte, that memory access loads a specific line into the L1 data cache. When the ROB flushes and rolls back the architectural state, the altered cache line remains in the L1 cache. By measuring cache access latencies after suppressing or handling the exception (using techniques like `Flush+Reload`), an attacker extracts the kernel secret byte, completely bypassing architectural memory protection.
+
+---
+*Return to [[INDEX]]*

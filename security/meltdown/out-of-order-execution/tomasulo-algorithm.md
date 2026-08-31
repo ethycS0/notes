@@ -1,0 +1,22 @@
+[[INDEX]] | [[general-concept]] | [[intel-x86-pipeline]]
+
+[Good Video Explanation](https://www.youtube.com/watch?v=EzEKGlO9w4Y&t)
+
+Tomasulo's Algorithm, developed by Robert Tomasulo at IBM in 1967 for the System/360 Model 91, is the foundational technique for dynamic out-of-order instruction scheduling. Before Tomasulo's algorithm, hardware execution was strictly bound to register availability and sequential program ordering. If instruction B needed register R1 that instruction A was modifying, instruction B had to wait. Furthermore, if instruction C wanted to overwrite R1 after instruction B read it, instruction C was also blocked. Tomasulo solved these pipeline stalls by combining two revolutionary ideas: distributed reservation stations and hardware register renaming over a common broadcast data bus.
+
+The core problem in instruction pipelines is handling data hazards. There are three types of data dependencies: Read-After-Write (RAW, a true data dependency where a value must be produced before it is read), Write-After-Read (WAR, an anti-dependency where writing a new value must not overwrite a register before an older instruction reads it), and Write-After-Write (WAW, an output dependency where two writes to the same register must occur in logical order). WAR and WAW are false hazards caused merely by having a finite number of register names. Tomasulo eliminated WAR and WAW hazards completely by dynamically renaming architectural registers to internal reservation station tags.
+
+Reservation Stations (RS) are distributed buffer slots located right in front of each functional execution unit (such as floating-point adders or multipliers). When an instruction is decoded during the Issue stage, it is assigned to an open reservation station. The algorithm inspects the instruction's source registers. If a source operand is already available in the architectural register file, its actual scalar value is copied directly into the reservation station slot. If the source operand is still being calculated by an earlier running instruction, the algorithm does not stall; instead, it stores the tag (identifier) of the producing reservation station. From that moment on, the instruction no longer cares about the original architectural register name. This register renaming breaks false dependencies because subsequent instructions can overwrite the original architectural register without corrupting the pending instruction's input tag.
+
+To distribute computed results instantly across the chip without writing to registers first, Tomasulo introduced the Common Data Bus (CDB). The CDB is a global broadcast bus connecting the outputs of all execution units to all reservation stations and register status tables. The algorithm operates in three distinct stages per instruction:
+
+1. **Issue:** An instruction is fetched from the queue. If an appropriate reservation station slot is free, the instruction issues. Operands are read into the RS if available; otherwise, the RS records the tag of the producing RS. The destination register is updated to point to this new RS tag, marking its pending value.
+
+2. **Execute (Monitor CDB):** If one or more operands are missing, the instruction waits in its RS, actively listening to broadcasts on the CDB. When a functional unit finishes an operation, it broadcasts the result along with its RS tag across the CDB. Every reservation station listening on the CDB checks if the broadcast tag matches its missing operand tag. If it matches, the RS snatches the value directly off the bus. Once all operands in an RS are valid, the execution unit begins executing the operation, completely out of order relative to unrelated instructions.
+
+3. **Write Result:** When execution finishes, the functional unit broadcasts the result and its tag over the CDB to all waiting reservation stations and updates the architectural register file (or Reorder Buffer in modern derivatives). The reservation station slot is then freed for new instructions.
+
+By replacing fixed register names with dynamic data flow tags, Tomasulo's algorithm transforms a sequential instruction stream into an execution graph driven purely by data availability. Modern processors adapt Tomasulo's core mechanism by pairing unified reservation stations with a Reorder Buffer (ROB) to ensure that while execution occurs dynamically via CDB broadcasts, speculative instructions are committed to state strictly in order.
+
+---
+*Next Note: [[intel-x86-pipeline]]*

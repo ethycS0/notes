@@ -1,5 +1,5 @@
 
-[[INDEX|← Back to Index]]
+[[c++/effective_modern_c++/INDEX|← Back to Index]]
 
 ## Item 18: Use std::unique_ptr for exclusive-ownership resource management
 
@@ -41,4 +41,4 @@
 
 ---
 
-[[INDEX|← Index]] | [[Chapter 3 - Moving to Modern C++|← Previous Chapter]] | [[Chapter 5 - Rvalue References Move Semantics and Perfect Forwarding|Next Chapter →]]
+[[c++/effective_modern_c++/INDEX|← Index]] | [[Chapter 3 - Moving to Modern C++|← Previous Chapter]] | [[Chapter 5 - Rvalue References Move Semantics and Perfect Forwarding|Next Chapter →]]

@@ -1,5 +1,5 @@
 
-[[INDEX|← Back to Index]]
+[[c++/effective_modern_c++/INDEX|← Back to Index]]
 
 ## Item 31: Avoid default capture modes
 
@@ -28,4 +28,4 @@
 
 ---
 
-[[INDEX|← Index]] | [[Chapter 5 - Rvalue References Move Semantics and Perfect Forwarding|<- Previous Chapter]] | [[Chapter 7 - The Concurrency API|Next Chapter →]]
+[[c++/effective_modern_c++/INDEX|← Index]] | [[Chapter 5 - Rvalue References Move Semantics and Perfect Forwarding|<- Previous Chapter]] | [[Chapter 7 - The Concurrency API|Next Chapter →]]

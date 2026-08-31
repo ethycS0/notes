@@ -1,5 +1,5 @@
 
-[[INDEX|← Back to Index]]
+[[c++/effective_modern_c++/INDEX|← Back to Index]]
 
 ## Item 7: Distinguish between () and {} when creating objects
 
@@ -89,4 +89,4 @@
 
 ---
 
-[[INDEX|← Index]] | [[Chapter 2 - auto|← Previous Chapter]] | [[Chapter 4 - Smart Pointers|Next Chapter →]]
+[[c++/effective_modern_c++/INDEX|← Index]] | [[Chapter 2 - auto|← Previous Chapter]] | [[Chapter 4 - Smart Pointers|Next Chapter →]]

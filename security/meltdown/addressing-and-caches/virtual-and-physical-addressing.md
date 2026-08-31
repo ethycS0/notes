@@ -1,0 +1,10 @@
+[[INDEX]] | [[addressing-and-caches/cpu-caches]] | [[addressing-and-caches/cache-side-channel-attacks]]
+
+Modern operating systems isolate processes using virtual memory, mapping virtual addresses used by applications to physical addresses in system RAM via hardware page translation tables managed by the Memory Management Unit (MMU). On x86_64 architectures, virtual addresses are 64 bits wide (typically using 48 canonical bits), structured into a multi-level page table hierarchy (Page Global Directory PGD, Page Upper Directory PUD, Page Middle Directory PMD, and Page Table Entry PTE). Each page table entry stores the physical frame base address along with protection flags, including the User/Supervisor (`U/S`) flag bit which designates whether a memory page is accessible in unprivileged user mode (Ring 3) or restricted to kernel mode (Ring 0).
+
+To make OS system calls and interrupt handling performant, operating systems mapped the entire kernel address space into the upper half of every user process's virtual address space. In 64-bit Linux, the kernel also maintains a direct physical memory map (known as `physmap` or direct mapping). This region maps the entire physical RAM of the machine contiguously into kernel virtual memory space starting at a fixed offset (e.g., `0xffff880000000000`). Consequently, any physical memory byte stored anywhere in RAM has a corresponding valid virtual address mapped inside the kernel space of every running process.
+
+Under normal operation, if a Ring 3 user program attempts to dereference a kernel virtual address (whether in kernel code or the direct physical mapping), the MMU checks the `U/S` flag bit in the page table entry, detects a privilege violation, and raises a Page Fault (`#PF`) exception. Meltdown exploits the microarchitectural flaw where the CPU's out-of-order execution engine reads the physical RAM content pointed to by the kernel virtual address before the MMU privilege check aborts the instruction at retirement.
+
+---
+*Next Note: [[addressing-and-caches/cpu-caches]]*

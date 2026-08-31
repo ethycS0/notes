@@ -1,5 +1,5 @@
 
-[[INDEX|← Back to Index]]
+[[c++/effective_modern_c++/INDEX|← Back to Index]]
 
 ## Item 35: Prefer task-based programming to thread-based
 
@@ -49,4 +49,4 @@
 
 ---
 
-[[INDEX|← Index]] | [[Chapter 6 - Lambda Expressions|← Previous Chapter]] | [[Chapter 8 - Tweaks|Next Chapter →]]
+[[c++/effective_modern_c++/INDEX|← Index]] | [[Chapter 6 - Lambda Expressions|← Previous Chapter]] | [[Chapter 8 - Tweaks|Next Chapter →]]

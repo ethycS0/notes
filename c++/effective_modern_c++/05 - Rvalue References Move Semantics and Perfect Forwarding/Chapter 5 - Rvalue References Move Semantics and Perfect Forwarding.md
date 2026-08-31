@@ -1,5 +1,5 @@
 
-[[INDEX|← Back to Index]]
+[[c++/effective_modern_c++/INDEX|← Back to Index]]
 
 ## Item 23: Understand std::move and std::forward
 
@@ -62,4 +62,4 @@
 
 ---
 
-[[INDEX|← Index]] | [[Chapter 4 - Smart Pointers|← Previous Chapter]] | [[Chapter 6 - Lambda Expressions|Next Chapter →]]
+[[c++/effective_modern_c++/INDEX|← Index]] | [[Chapter 4 - Smart Pointers|← Previous Chapter]] | [[Chapter 6 - Lambda Expressions|Next Chapter →]]
