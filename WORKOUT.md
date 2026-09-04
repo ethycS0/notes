@@ -1,19 +1,19 @@
 
 ## Mobility
 
-| **Joint / Muscle**    | **Exercise**                                                           | **Target**  | **Notes**                        |
-| --------------------- | ---------------------------------------------------------------------- | ----------- | -------------------------------- |
-| **Neck**              | [Neck CARs](https://www.youtube.com/watch?v=J3tkQ4pk_Sc)               | 5 reps/side | Slow smooth circles              |
-| **Mid-Back**          | [Quadruped T-Rotations](https://www.youtube.com/watch?v=AzCghjjWt5k)   | 8 reps/side | Elbow up to ceiling              |
-| **Shoulders**         | [Band Pass-Throughs](https://www.youtube.com/watch?v=7GSSVK8iXU0)      | 15 reps     | Sweep overhead with band         |
-| **Upper Back**        | [Band Pull-Aparts](https://www.youtube.com/watch?v=3OYSIWaJJk4)        | 15 reps     | Pull to chest, squeeze back      |
-| **Shoulders & Spine** | [Scapular Dead Hangs](https://www.youtube.com/watch?v=V0hzdT1CZnk)     | 60s total   | Hang loose + 10 scapular shrugs  |
-| **Wrists & Forearms** | [5kg Reverse Wrist Curls](https://www.youtube.com/watch?v=krZ6pWGZ8xo) | 2 × 12–15   | Palm down on thigh               |
-| **Wrists & Forearms** | [Quadruped Wrist Rockers](https://www.youtube.com/watch?v=UC6rd7rbk1A) | 60s hold    | Palms flat, fingers turned back  |
-| **Hips**              | [90/90 Hip Switches](https://www.youtube.com/watch?v=m51AZSXMvEA)      | 10 total    | Pivot on heels, hands free       |
-| **Hip Flexors**       | [Kneeling Flexor](https://www.youtube.com/watch?v=34SlL-PPCWQ)         | 45s/side    | Squeeze glute & tilt pelvis      |
-| **Knees**             | [Wall Sit](https://www.youtube.com/watch?v=-cdph8hv0O0)                | 2 x 45s     | Back against wall & sit in squat |
-| **Ankles & Shins**    | [Tibialis Wall Raises](https://www.youtube.com/watch?v=VzIcGAgBiaM)    | 15 reps     | Back against wall, pull toes up  |
+| **Joint / Muscle**    | **Exercise**                                                           | **Target**           | **Notes**                        |
+| --------------------- | ---------------------------------------------------------------------- | -------------------- | -------------------------------- |
+| **Neck**              | [Neck CARs](https://www.youtube.com/watch?v=J3tkQ4pk_Sc)               | 5 reps/side          | Slow smooth circles              |
+| **Mid-Back**          | [Quadruped T-Rotations](https://www.youtube.com/watch?v=AzCghjjWt5k)   | 8 reps/side          | Elbow up to ceiling              |
+| **Shoulders**         | [Band Pass-Throughs](https://www.youtube.com/watch?v=7GSSVK8iXU0)      | 10 reps              | Sweep overhead with band         |
+| **Upper Back**        | [Band Pull-Aparts](https://www.youtube.com/watch?v=3OYSIWaJJk4)        | 15 reps              | Pull to chest, squeeze back      |
+| **Shoulders & Spine** | [Scapular Dead Hangs](https://www.youtube.com/watch?v=V0hzdT1CZnk)     | 30s total + 5 shrugs | Hang loose + scapular shrugs     |
+| **Wrists & Forearms** | [5kg Reverse Wrist Curls](https://www.youtube.com/watch?v=krZ6pWGZ8xo) | 2 × 12–15            | Palm down on thigh               |
+| **Wrists & Forearms** | [Quadruped Wrist Rockers](https://www.youtube.com/watch?v=UC6rd7rbk1A) | 60s hold             | Palms flat, fingers turned back  |
+| **Hips**              | [90/90 Hip Switches](https://www.youtube.com/watch?v=m51AZSXMvEA)      | 10 total             | Pivot on heels, hands free       |
+| **Hip Flexors**       | [Kneeling Flexor](https://www.youtube.com/watch?v=34SlL-PPCWQ)         | 45s/side             | Squeeze glute & tilt pelvis      |
+| **Knees**             | [Wall Sit](https://www.youtube.com/watch?v=-cdph8hv0O0)                | 45s                  | Back against wall & sit in squat |
+| **Ankles & Shins**    | [Tibialis Wall Raises](https://www.youtube.com/watch?v=VzIcGAgBiaM)    | 15 reps              | Back against wall, pull toes up  |
 
 ## Push
 
@@ -39,14 +39,12 @@
 
 ## Legs
 
-| Exercise                                                           | Target (sets/reps) | Set 1 | Set 2 | Set 3 | Notes |
-| :----------------------------------------------------------------- | :----------------: | :---: | :---: | :---: | :---- |
-| [Leg Press](https://www.youtube.com/shorts/EotSw18oR9w)            |    1 + 2 (6-8)     |       |       |       |       |
-| [Hamstring Curls](https://www.youtube.com/shorts/_lgE0gPvbik)      |      3 (8-10)      |       |       |       |       |
-| [Leg Extensions](https://www.youtube.com/shorts/iQ92TuvBqRo)       |      3 (8-10)      |       |       |       |       |
-| [Machine Hip Abductor](https://www.youtube.com/shorts/tu4o4quPv2k) |     3 (10-12)      |       |       |       |       |
-| [Machine Hip Adductor](https://www.youtube.com/shorts/iPLvw74e7Tk) |     3 (10-12)      |       |       |       |       |
-| [Calf Raises](https://www.youtube.com/watch?v=c5Kv6-fnTj8)         |     3 (10-12)      |       |       |       |       |
+| Exercise                                                      | Target (sets/reps) |  Set 1   |    Set 2     |      Set 3      | Notes |
+| :------------------------------------------------------------ | :----------------: | :------: | :----------: | :-------------: | :---- |
+| [Leg Press](https://www.youtube.com/shorts/EotSw18oR9w)       |    1 + 2 (6-8)     | 50 \| 8  |   100 \| 8   |    120 \| 11    | +     |
+| [Hamstring Curls](https://www.youtube.com/shorts/_lgE0gPvbik) |    1 + 2 (8-10)    | 54 \| 10 |   64 \| 8    |    59 \| 10     | =     |
+| [Leg Extensions](https://www.youtube.com/shorts/iQ92TuvBqRo)  |    1 + 2 (8-10)    | 36 \| 8  |   73 \| 10   |    77 \| 10     | +     |
+| [Calf Raises](https://www.youtube.com/watch?v=c5Kv6-fnTj8)    |     3 (10-12)      | BW \| 10 | BW + 10 \| 8 | BW + 12.5 \| 12 | +     |
 
 ## Cardio
 
