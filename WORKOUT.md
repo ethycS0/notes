@@ -26,14 +26,14 @@
 
 ## Pull
 
-| Exercise                                                             | Target (sets/reps) |   Set 1    |  Set 2   |  Set 3   | Notes |
-| :------------------------------------------------------------------- | :----------------: | :--------: | :------: | :------: | :---- |
-| [Lat Pulldown](https://www.youtube.com/watch?v=aoHXhJ2x2BQ)          |      2 (6-8)       |  36 \| 8   | 64 \| 7  | 59 \| 6  | =     |
-| [Seated Cable Row](https://www.youtube.com/shorts/qD1WZ5pSuvk)       |      2 (6-8)       |  36 \| 8   | 45 \| 8  | 47 \| 8  | +     |
-| [Face Pulls](https://www.youtube.com/shorts/IeOqdw9WI90)             |      3 (8-12)      |            |          |          |       |
-| [Bicep Curls](https://www.youtube.com/shorts/MKWBV29S6c0)            |      3 (8-10)      |            |          |          |       |
-| [Hammer Curls](https://www.youtube.com/shorts/lmIo_gVE8T4)           |      3 (8-10)      | 12.5s \| 7 | 10s \| 8 | 10s \| 8 | -     |
-| [Forearm Curls and Exts](https://www.youtube.com/shorts/qOe5uDVSqnE) |      3 (8-12)      |            |          |          |       |
+| Exercise                                                             | Target (sets/reps) |   Set 1    |   Set 2    |  Set 3   | Notes |
+| :------------------------------------------------------------------- | :----------------: | :--------: | :--------: | :------: | :---- |
+| [Lat Pulldown](https://www.youtube.com/watch?v=aoHXhJ2x2BQ)          |      2 (6-8)       |  64 \| 8   |  64 \| 6   |    x     | =     |
+| [Seated Cable Row](https://www.youtube.com/shorts/qD1WZ5pSuvk)       |      2 (6-8)       |  52 \| 7   |  50 \| 5   |    x     | =     |
+| [Face Pulls](https://www.youtube.com/shorts/IeOqdw9WI90)             |      3 (8-12)      |  36 \| 10  |  36 \| 10  | 32 \| 10 | =     |
+| [Bicep Curls](https://www.youtube.com/shorts/MKWBV29S6c0)            |      3 (8-10)      |            |            |          |       |
+| [Hammer Curls](https://www.youtube.com/shorts/lmIo_gVE8T4)           |      3 (8-10)      | 12.5s \| 8 | 12.5s \| 8 | 10s \| 8 | =     |
+| [Forearm Curls and Exts](https://www.youtube.com/shorts/qOe5uDVSqnE) |      3 (8-12)      |  10 \| 12  |  10 \| 12  | 10 \| 8  |       |
 
 ## Legs
 
@@ -48,15 +48,15 @@
 
 ## Upper
 
-| Exercise                                                                 | Target (sets/reps) | Set 1 | Set 2 | Set 3 | Next |
-| :----------------------------------------------------------------------- | :----------------: | :---: | :---: | :---: | :--- |
-| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)          |      2 (6-8)       |       |       |       |      |
-| [Assisted Dips](https://www.youtube.com/shorts/EQmyN04oTq4)              |      2 (6-8)       |       |       |       |      |
-| [Iso-Lateral Rows](https://www.youtube.com/shorts/p8xv01t5mtk)           |      2 (6-8)       |       |       |       |      |
-| [Iso-Lateral Overhead Press](https://www.youtube.com/shorts/6v4nrRVySj0) |      2 (6-8)       |       |       |       |      |
-| [Skullcrushers](https://www.youtube.com/shorts/K3mFeNz4e3w)              |      3 (8-10)      |       |       |       |      |
-| [Preacher Curls](https://www.youtube.com/shorts/7ixqAPO6JvU)             |      3 (8-10)      |       |       |       |      |
-| [Lever Lateral Raises](https://www.youtube.com/shorts/EL_xr3NVUbc)       |      3 (8-10)      |       |       |       |      |
+| Exercise                                                                 | Target (sets/reps) |  Set 1  |  Set 2  |  Set 3  | Next |
+| :----------------------------------------------------------------------- | :----------------: | :-----: | :-----: | :-----: | :--- |
+| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)          |      2 (6-8)       |         |         |         |      |
+| [Assisted Dips](https://www.youtube.com/shorts/EQmyN04oTq4)              |      2 (6-8)       |         |         |         |      |
+| [Iso-Lateral Rows](https://www.youtube.com/shorts/p8xv01t5mtk)           |      2 (6-8)       |         |         |         |      |
+| [Iso-Lateral Overhead Press](https://www.youtube.com/shorts/6v4nrRVySj0) |      2 (6-8)       |         |         |         |      |
+| [Skullcrushers](https://www.youtube.com/shorts/K3mFeNz4e3w)              |      3 (8-10)      |         |         |         |      |
+| [Preacher Curls](https://www.youtube.com/shorts/7ixqAPO6JvU)             |      3 (8-10)      | 32 \| 8 | 32 \| 8 | 27 \| 8 |      |
+| [Lever Lateral Raises](https://www.youtube.com/shorts/EL_xr3NVUbc)       |      3 (8-10)      |         |         |         |      |
 
 ## Cardio
 
