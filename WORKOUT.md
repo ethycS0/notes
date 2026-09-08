@@ -4,14 +4,14 @@
 
 ## Push
 
-| Exercise                                                                             | Target (sets/reps) |   Set 1    |   Set 2    |     Set 3      | Next |
-| :----------------------------------------------------------------------------------- | :----------------: | :--------: | :--------: | :------------: | :--- |
-| [Incline Barbell Bench](https://www.youtube.com/shorts/98HWfiRonkE)                  |      2 (6-8)       | B+10 \| 8  | B+15 \| 8  |   B+15 \| 6    | +    |
-| [Machine Overhead Press](https://youtube.com/shorts/Gkk-6q7Rq-s?si=A6I3bvSoW6NGTy6T) |      2 (6-8)       |  14 \| 8   |  23 \| 8   |    23 \| 10    | +    |
-| [Machine Flyes](https://www.youtube.com/shorts/XZg28DIf1oc)                          |      2 (8-10)      |  54 \| 8   |  50 \| 8   |    45 \| 8     | =    |
-| [Dumbell Lateral Raises](https://youtu.be/F5MmSpu-SIQ?si=IMGqkPmqQav_qA-9)           |      3 (8-14)      | 7.5s \| 12 | 7.5s \| 10 | 7.5s \| 9 \| 4 | =    |
-| [Single Arm DB Overhead Ext](https://youtu.be/ElgwiCgIPlU?si=Y16vyu8S8AyYDKW8)       |      3 (8-12)      | 7.5s \| 10 | 7.5s \| 10 |   7.5s \| 8    | =    |
-| [Tricep Pushdown](https://www.youtube.com/shorts/Rc7-euA8FDI)                        |      3 (8-10)      |  46 \| 8   |  41 \| 8   |    36 \| 10    | =    |
+| Exercise                                                                             | Target (sets/reps) |      Set 1       |      Set 2       |   Set 3    | Next |
+| :----------------------------------------------------------------------------------- | :----------------: | :--------------: | :--------------: | :--------: | :--- |
+| [Incline Barbell Bench](https://www.youtube.com/shorts/98HWfiRonkE)                  |      2 (6-8)       | B+15 (17.5) \| 8 | B+15 (17.5) \| 7 |     x      | =    |
+| [Machine Overhead Press](https://youtube.com/shorts/Gkk-6q7Rq-s?si=A6I3bvSoW6NGTy6T) |      2 (6-8)       |     27 \| 6      |     23 \| 8      |     x      | =    |
+| [Machine Flyes](https://www.youtube.com/shorts/XZg28DIf1oc)                          |      2 (8-10)      |     54 \| 10     |     54 \| 8      |     x      | ++   |
+| [Dumbell Lateral Raises](https://youtu.be/F5MmSpu-SIQ?si=IMGqkPmqQav_qA-9)           |      3 (8-12)      |    7.5s \| 12    |    7.5s \| 12    | 7.5s \| 10 | +    |
+| [Single Arm DB Overhead Ext](https://youtu.be/ElgwiCgIPlU?si=Y16vyu8S8AyYDKW8)       |      3 (8-12)      |    7.5s \| 12    |    7.5s \| 11    | 7.5s \| 7  | +    |
+| [Tricep Pushdown](https://www.youtube.com/shorts/Rc7-euA8FDI)                        |      3 (8-10)      |     46 \| 9      |     41 \| 9      |  41 \| 8   | =    |
 
 ## Pull
 
