@@ -26,14 +26,16 @@
 
 ## Legs
 
-| Exercise                                                                 | Target (sets/reps) |  Set 1   |    Set 2     |      Set 3      | Next |
-| :----------------------------------------------------------------------- | :----------------: | :------: | :----------: | :-------------: | :--- |
-| [Leg Press](https://www.youtube.com/shorts/EotSw18oR9w)                  |      2 (8-10)      | 50 \| 8  |   100 \| 8   |    120 \| 11    | +    |
-| [Hamstring Curls](https://www.youtube.com/shorts/_lgE0gPvbik)            |      2 (8-10)      | 54 \| 10 |   64 \| 8    |    59 \| 10     | =    |
-| [Leg Extensions](https://www.youtube.com/shorts/iQ92TuvBqRo)             |      2 (8-10)      | 36 \| 8  |   73 \| 10   |    77 \| 10     | +    |
-| [Calf Raises](https://www.youtube.com/watch?v=c5Kv6-fnTj8)               |     3 (10-12)      | BW \| 10 | BW + 10 \| 8 | BW + 12.5 \| 12 | +    |
-| [Machine Ab Crunch](https://www.youtube.com/watch?v=V7p_DmkYLZw)         |     3 (10-12)      |          |              |                 |      |
-| [Captain's Chair Knee Raise](https://www.youtube.com/shorts/PpZxg66ftYc) |     3 (10-12)      |          |              |                 |      |
+| Exercise                                                                 | Target (sets/reps) |     Set 1     |     Set 2     |      Set 3      | Next |
+| :----------------------------------------------------------------------- | :----------------: | :-----------: | :-----------: | :-------------: | :--- |
+| [Leg Press](https://www.youtube.com/shorts/EotSw18oR9w)                  |      3 (8-10)      |   120 \| 8    |   130 \| 8    |    140 \| 7     | +    |
+| [Hamstring Curls](https://www.youtube.com/shorts/_lgE0gPvbik)            |      2 (8-10)      |   68 \| 10    |   64 \| 10    |        x        | +    |
+| [Leg Extensions](https://www.youtube.com/shorts/iQ92TuvBqRo)             |      2 (8-10)      |   82 \| 10    |    91 \| 8    |        x        | +    |
+| [Machine Ab Crunch](https://www.youtube.com/watch?v=V7p_DmkYLZw)         |     3 (10-12)      |   23 \| 10    |   23 \| 10    |    23 \| 10     | +    |
+| [Captain's Chair Knee Raise](https://www.youtube.com/shorts/PpZxg66ftYc) |     3 (10-12)      |   BW \| 10    |   BW \| 10    |     BW \| 8     |      |
+| [Calf Raises](https://www.youtube.com/watch?v=c5Kv6-fnTj8)               |     3 (10-12)      | BW + 15 \| 10 | BW + 20 \| 10 | BW + 22.5 \| 12 | +    |
+| Rotary Torso                                                             |     3 (10-12)      |   27 \| 10    |   27 \| 10    |    27 \| 10     | +    |
+|                                                                          |                    |               |               |                 |      |
 
 ## Upper
 
