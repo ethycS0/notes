@@ -1,8 +1,5 @@
-Read all projects codebases
-Discuss OSS ppts
+Read OSS ppts
 Cureus Journal Publication
+IEEE xplore 
 Backup LUKS2 Header
 Setup Snapshot
-Meltdown read
-Meltdown User Mode test learn
-Meltdown implement

@@ -1,6 +1,6 @@
 # Workout
 
-> Warm-up set: ((Max Weight / 2) + 1 Plate) for Max Reps
+> Warm-up set: ((Max Weight / 2) + 1 Plate) for Lower end of Reps
 
 ## Push
 
@@ -39,15 +39,15 @@
 
 ## Upper
 
-| Exercise                                                           | Target (sets/reps) |   Set 1   |   Set 2    |   Set 3   | Next |
-| :----------------------------------------------------------------- | :----------------: | :-------: | :--------: | :-------: | :--- |
-| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)    |      2 (4-6)       | -32 \| 4  |  -36 \| 3  |     x     | +    |
-| [Assisted Dips](https://www.youtube.com/shorts/EQmyN04oTq4)        |      2 (4-6)       | -73 \| 7  |  -68 \| 7  |     x     | +    |
-| Single Arm Dumbell Row                                             |      2 (8-10)      | 20 \| 10  | 22.5 \| 10 |     x     | +    |
-| Machin overhead press                                              |      2 (6-8)       |  32 \| 8  |  32 \| 6   |     x     | +    |
-| [Skullcrushers](https://www.youtube.com/shorts/K3mFeNz4e3w)        |      3 (8-10)      | 10 \| 11  | 12.5 \| 10 | 15 \| 10  | +    |
-| [Bicep Curls](https://www.youtube.com/shorts/MKWBV29S6c0)          |      3 (6-10)      | 12.5 \| 8 | 12.5 \| 8  | 12.5 \| 6 | =    |
-| [Lever Lateral Raises](https://www.youtube.com/shorts/EL_xr3NVUbc) |      3 (8-10)      | 14 \| 10  |  23 \| 10  | 28 \| 10  | +    |
+| Exercise                                                                             | Target (sets/reps) |   Set 1   |   Set 2    |   Set 3   | Next |
+| :----------------------------------------------------------------------------------- | :----------------: | :-------: | :--------: | :-------: | :--- |
+| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)                      |      2 (4-6)       | -32 \| 4  |  -36 \| 3  |     x     | +    |
+| [Assisted Dips](https://www.youtube.com/shorts/EQmyN04oTq4)                          |      2 (4-6)       | -73 \| 7  |  -68 \| 7  |     x     | +    |
+| [Single Arm Dumbell Row](https://youtube.com/shorts/yHqqGd0tXcw?si=Nlhb2PTrPZAgE7pG) |      2 (8-10)      | 20 \| 10  | 22.5 \| 10 |     x     | +    |
+| [Machine Overhead Press](https://youtube.com/shorts/Gkk-6q7Rq-s?si=A6I3bvSoW6NGTy6T) |      2 (6-8)       |  32 \| 8  |  32 \| 6   |     x     | +    |
+| [Skullcrushers](https://www.youtube.com/shorts/K3mFeNz4e3w)                          |      3 (8-10)      | 10 \| 11  | 12.5 \| 10 | 15 \| 10  | +    |
+| [Bicep Curls](https://www.youtube.com/shorts/MKWBV29S6c0)                            |      3 (6-10)      | 12.5 \| 8 | 12.5 \| 8  | 12.5 \| 6 | =    |
+| [Lever Lateral Raises](https://www.youtube.com/shorts/EL_xr3NVUbc)                   |      3 (8-10)      | 14 \| 10  |  23 \| 10  | 28 \| 10  | +    |
 
 # Mobility
 
