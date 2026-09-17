@@ -4,38 +4,38 @@
 
 ## Push
 
-| Exercise                                                                             | Target (sets/reps) |      Set 1       |      Set 2       |   Set 3    | Next |
-| :----------------------------------------------------------------------------------- | :----------------: | :--------------: | :--------------: | :--------: | :--- |
-| [Incline Barbell Bench](https://www.youtube.com/shorts/98HWfiRonkE)                  |      2 (6-8)       | B+15 (17.5) \| 8 | B+15 (17.5) \| 7 |     x      | =    |
-| [Machine Overhead Press](https://youtube.com/shorts/Gkk-6q7Rq-s?si=A6I3bvSoW6NGTy6T) |      2 (6-8)       |     27 \| 6      |     23 \| 8      |     x      | =    |
-| [Machine Flyes](https://www.youtube.com/shorts/XZg28DIf1oc)                          |      2 (8-10)      |     54 \| 10     |     54 \| 8      |     x      | ++   |
-| [Dumbell Lateral Raises](https://youtu.be/F5MmSpu-SIQ?si=IMGqkPmqQav_qA-9)           |      3 (8-12)      |    7.5s \| 12    |    7.5s \| 12    | 7.5s \| 10 | +    |
-| [Single Arm DB Overhead Ext](https://youtu.be/ElgwiCgIPlU?si=Y16vyu8S8AyYDKW8)       |      3 (8-12)      |    7.5s \| 12    |    7.5s \| 11    | 7.5s \| 7  | +    |
-| [Tricep Pushdown](https://www.youtube.com/shorts/Rc7-euA8FDI)                        |      3 (8-10)      |     46 \| 9      |     41 \| 9      |  41 \| 8   | =    |
+| Exercise                                                                             | Target (sets/reps) |      Set 1       |      Set 2       |   Set 3   | Next             |
+| :----------------------------------------------------------------------------------- | :----------------: | :--------------: | :--------------: | :-------: | :--------------- |
+| [Incline Barbell Bench](https://www.youtube.com/shorts/98HWfiRonkE)                  |      2 (6-8)       | B+15 (17.5) \| 8 | B+15 (17.5) \| 8 |     x     | =                |
+| [Machine Overhead Press](https://youtube.com/shorts/Gkk-6q7Rq-s?si=A6I3bvSoW6NGTy6T) |      2 (6-8)       |     32 \| 8      |     32 \| 6      |     x     | +                |
+| [Machine Flyes](https://www.youtube.com/shorts/XZg28DIf1oc)                          |      2 (8-10)      |     59 \| 9      |     54 \| 8      |     x     | =                |
+| [Dumbell Lateral Raises](https://youtu.be/F5MmSpu-SIQ?si=IMGqkPmqQav_qA-9)           |      3 (8-12)      |     32 \| 8      |     27 \| 8      | 23 \| 10  | Machine better - |
+| [Single Arm DB Overhead Ext](https://youtu.be/ElgwiCgIPlU?si=Y16vyu8S8AyYDKW8)       |      3 (8-12)      |     10 \| 8      |     10 \| 5      | 7.5s \| 7 | +                |
+| [Tricep Pushdown](https://www.youtube.com/shorts/Rc7-euA8FDI)                        |      3 (8-10)      |     46 \| 9      |     41 \| 9      |  41 \| 8  | =                |
 
 ## Pull
 
-| Exercise                                                             | Target (sets/reps) |   Set 1    |   Set 2    |   Set 3    | Next |
-| :------------------------------------------------------------------- | :----------------: | :--------: | :--------: | :--------: | :--- |
-| [Lat Pulldown](https://www.youtube.com/watch?v=aoHXhJ2x2BQ)          |      2 (6-8)       |  64 \| 8   |  64 \| 6   |     x      | +    |
-| [Seated Cable Row](https://www.youtube.com/shorts/qD1WZ5pSuvk)       |      2 (6-8)       |  52 \| 7   |  50 \| 5   |     x      | =    |
-| [Face Pulls](https://www.youtube.com/shorts/IeOqdw9WI90)             |      3 (8-12)      |  36 \| 10  |  36 \| 10  |  32 \| 10  | =    |
-| [Hammer Curls](https://www.youtube.com/shorts/lmIo_gVE8T4)           |      3 (8-10)      | 12.5s \| 8 | 12.5s \| 8 | 12.5s \| 8 | =    |
-| [Preacher Curls](https://www.youtube.com/shorts/7ixqAPO6JvU)         |      2 (8-10)      |  32 \| 8   |  32 \| 8   |     x      | +    |
-| [Forearm Curls and Exts](https://www.youtube.com/shorts/qOe5uDVSqnE) |      3 (8-12)      |  10 \| 12  |  10 \| 12  |  10 \| 8   | =    |
+| Exercise                                                             | Target (sets/reps) |      Set 1      |   Set 2    |   Set 3    | Next             |
+| :------------------------------------------------------------------- | :----------------: | :-------------: | :--------: | :--------: | :--------------- |
+| [Lat Pulldown](https://www.youtube.com/watch?v=aoHXhJ2x2BQ)          |      2 (6-8)       |     68 \| 7     |  64 \| 6   |     x      | +                |
+| [Seated Cable Row](https://www.youtube.com/shorts/qD1WZ5pSuvk)       |      2 (6-8)       |     52 \| 7     |  47 \| 8   |     x      | =                |
+| [Face Pulls](https://www.youtube.com/shorts/IeOqdw9WI90)             |      3 (8-12)      |     41 \| 8     |  41 \| 8   |  36 \| 9   | =                |
+| [Hammer Curls](https://www.youtube.com/shorts/lmIo_gVE8T4)           |      3 (8-10)      |   12.5s \| 9    | 12.5s \| 9 | 12.5s \| 8 | =                |
+| [Preacher Curls](https://www.youtube.com/shorts/7ixqAPO6JvU)         |      2 (8-10)      |     36 \| 7     |  32 \| 8   |     x      | =                |
+| [Forearm Curls and Exts](https://www.youtube.com/shorts/qOe5uDVSqnE) |      3 (8-12)      | 12.5 \| 10 + 12 |  10 \| 12  |  10 \| 8   | 17.5 12 \| 10 12 |
 
 ## Legs
 
-| Exercise                                                                 | Target (sets/reps) |     Set 1     |     Set 2     |      Set 3      | Next |
-| :----------------------------------------------------------------------- | :----------------: | :-----------: | :-----------: | :-------------: | :--- |
-| [Leg Press](https://www.youtube.com/shorts/EotSw18oR9w)                  |      3 (8-10)      |   120 \| 8    |   130 \| 8    |    140 \| 7     | +    |
-| [Hamstring Curls](https://www.youtube.com/shorts/_lgE0gPvbik)            |      2 (8-10)      |   68 \| 10    |   64 \| 10    |        x        | +    |
-| [Leg Extensions](https://www.youtube.com/shorts/iQ92TuvBqRo)             |      2 (8-10)      |   82 \| 10    |    91 \| 8    |        x        | +    |
-| [Machine Ab Crunch](https://www.youtube.com/watch?v=V7p_DmkYLZw)         |     3 (10-12)      |   23 \| 10    |   23 \| 10    |    23 \| 10     | +    |
-| [Captain's Chair Knee Raise](https://www.youtube.com/shorts/PpZxg66ftYc) |     3 (10-12)      |   BW \| 10    |   BW \| 10    |     BW \| 8     |      |
-| [Calf Raises](https://www.youtube.com/watch?v=c5Kv6-fnTj8)               |     3 (10-12)      | BW + 15 \| 10 | BW + 20 \| 10 | BW + 22.5 \| 12 | +    |
-| Rotary Torso                                                             |     3 (10-12)      |   27 \| 10    |   27 \| 10    |    27 \| 10     | +    |
-|                                                                          |                    |               |               |                 |      |
+| Exercise                                                                 | Target (sets/reps) |     Set 1     |    Set 2     |    Set 3     | Next |
+| :----------------------------------------------------------------------- | :----------------: | :-----------: | :----------: | :----------: | :--- |
+| [Leg Press](https://www.youtube.com/shorts/EotSw18oR9w)                  |      3 (8-10)      |   100 \| 8    |   150 \| 8   |   150 \| 9   | =    |
+| [Hamstring Curls](https://www.youtube.com/shorts/_lgE0gPvbik)            |      2 (8-10)      |   68 \| 10    |   64 \| 10   |      x       | =    |
+| [Leg Extensions](https://www.youtube.com/shorts/iQ92TuvBqRo)             |      2 (8-10)      |   91 \| 10    |   91 \| 8    |      x       | +    |
+| [Machine Ab Crunch](https://www.youtube.com/watch?v=V7p_DmkYLZw)         |     3 (10-12)      |   23 \| 10    |   27 \| 10   |   32 \| 10   | =    |
+| [Captain's Chair Knee Raise](https://www.youtube.com/shorts/PpZxg66ftYc) |     3 (10-12)      |   BW \| 10    |   BW \| 10   |   BW \| 8    |      |
+| Rotary Torso                                                             |     3 (10-12)      |   27 \| 10    |   32 \| 10   |   36 \| 10   | +    |
+| [Calf Raises](https://www.youtube.com/watch?v=c5Kv6-fnTj8)               |     3 (10-12)      | BW + 25 \| 10 | BW + 30 \| 8 | BW + 30 \| 8 | +    |
+|                                                                          |                    |               |              |              |      |
 
 ## Upper
 
