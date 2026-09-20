@@ -11,7 +11,7 @@ The front-end operates speculatively to continuously supply instructions to the 
 
 ### **[[if_stage_1|Fetch Stage 1]]**
 
-Calculates next_pc using sequential +4, branch predictions, or back-end redirect jumps (pc_jump_i). It queries [[branch_predictor|branch_predictor]], which uses a 128-entry tag table (is_branch_table) to identify known branches without instruction decoding. Direction and target predictions are handled by [[bimodal_predictor|bimodal_predictor]] using a 128-entry Pattern History Table (PHT) of 2-bit counters and a Branch Target Buffer (BTB) for zero-cycle speculative lookups. Subroutine return addresses are predicted via the 16-entry [[return_address_stack|return_address_stack]]. Parallel checks for PC misalignment (pc[1:0] != 0) and physical section mapping violations are performed before sending virtual address requests (vaddr) to the instruction cache.
+Calculates next_pc using sequential +4, branch predictions, or back-end redirect jumps (pc_jump_i). It queries [[branch_predictor|Branch Predictor]], which uses a 128-entry tag table (is_branch_table) to identify known branches without instruction decoding. Direction and target predictions are handled by [[bimodal_predictor|Bimodal Predictor]] using a 128-entry Pattern History Table (PHT) of 2-bit counters and a Branch Target Buffer (BTB) for zero-cycle speculative lookups. Subroutine return addresses are predicted via the 16-entry [[return_address_stack|Return Address Stack]]. Parallel checks for PC misalignment (pc\[1:0] != 0) and physical section mapping violations are performed before sending virtual address requests (vaddr) to the instruction cache.
 
 ### **[[if_stage_2|Fetch Stage 2]]**
 
