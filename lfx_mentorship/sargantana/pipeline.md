@@ -17,6 +17,16 @@ Calculates next_pc using sequential +4, branch predictions, or back-end redirect
 
 Receives incoming 32-bit instruction payloads from the cache and aligns them with PC and branch metadata forwarded from IF1. It asserts backpressure stalls (stall_o) on cache misses or TLB delays to freeze the upstream PC. During downstream pipeline stalls (stall_i), it holds instruction payloads in a 1-entry skid buffer register (resp_icache_cpu_q) to prevent data loss. It also merges exceptions by prioritizing early IF1 address faults over MMU instruction page faults (INSTR_PAGE_FAULT) and guest page faults (INSTR_GUEST_PAGE_FAULT) before dispatching data to the instruction queue.
 
+Below is the Front-End section with Decode added in the same documentation style and with the Obsidian links preserved.
+
+### [**Decode Stage**](decoder)
+
+Converts the instruction received from [Fetch Stage 2](if_stage_2) into Sargantana's internal `instr_entry_t` representation. It extracts the immediate through [Immediate Generator](immediate), identifies the exact instruction from the opcode and function fields, and records which integer, floating-point, and vector registers are read or written. It also selects the target execution unit, such as ALU, multiply, divide, memory, branch, FPU, or SIMD, and attaches instruction-specific metadata such as memory type, operation width, FP rounding mode, and vector state.
+
+Decode also performs instruction legality checks using privilege, CSR, floating-point, and vector state. Vector configuration instructions (`VSETVL`, `VSETVLI`, `VSETIVLI`) interact with [VSET Module](vset_module), which calculates the resulting `VL`, `VTYPE`, `VLMAX`, and related vector state while [VSET Queue](vset_queue) tracks speculative vector configuration. Branch and jump instructions also provide RAS control information through [Return Address Stack](return_address_stack). Decode-generated exceptions are merged with exceptions already present from Fetch Stage 2.
+
+The resulting decoded instruction is then forwarded to the instruction queue, where it forms the interface between the speculative front-end and the back-end.
+
 ---
 
 ## Back-End Overview
