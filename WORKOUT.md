@@ -63,15 +63,9 @@
 | **Knees**             | [Wall Sit](https://www.youtube.com/watch?v=-cdph8hv0O0)                | 45s                  | Back against wall & sit in squat |
 | **Ankles & Shins**    | [Tibialis Wall Raises](https://www.youtube.com/watch?v=VzIcGAgBiaM)    | 15 reps              | Back against wall, pull toes up  |
 
-# Cardio
+# Zone 2 Cardio
 
-| Treadmill Cardio | Incline | Speed | Time  |
-| :--------------- | :-----: | :---: | :---: |
-| Incline Walk     |   5.0   |  5.0  | 15:00 |
-| Sprint           |   0.5   | 11.0  | 1:00  |
-
-| Other Cardio | Resistance | Speed | Distance | Time |
-| :----------- | :--------: | :---: | :------: | :--: |
-| Bike         |            |       |          |      |
-| Elliptical   |            |       |          |      |
-|              |            |       |          |      |
+| Treadmill Cardio | Run Time | Cardio<br><br>Walk Time | Avg Run Speed | Avg Walk Speed |
+| :--------------- | :------: | :---------------------: | :-----------: | -------------- |
+| Open Run         |          |                         |               |                |
+| Treadmill Run    |          |                         |               |                |
