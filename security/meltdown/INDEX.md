@@ -3,7 +3,7 @@
 
 ---
 ### 1. Introduction & Authors
-- [[introduction]]
+- [[security/meltdown/introduction]]
 
 ### 2. Out-of-Order Execution 
 - [[general-concept]] — Core concepts, in-order vs out-of-order execution, architectural vs microarchitectural state.
