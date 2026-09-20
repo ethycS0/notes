@@ -1,4 +1,3 @@
-# Workout
 
 > Warm-up set: ((Max Weight / 2) + 1 Plate) for Lower end of Reps
 
