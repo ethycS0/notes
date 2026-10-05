@@ -1,26 +1,17 @@
-Read OSS ppts
-Cureus Journal Publication
-IEEE xplore 
-Backup LUKS2 Header
-Setup Snapshot
+# General
 
-## Canonical CTO Interview Prep
+- [ ] Cureus Journal Publication
+- [ ] IEEE xplore Publication
+- [ ] Backup LUKS2 Header
+- [ ] Setup Snapshot
 
-### Topics
-1. YOCTO
-2. Kernel Prep
-	1. OS
-	2. Process and Memory
-	3. Syscalls
-	4. IO
-	5. FD
-	6. Filesystem
-	7. Paging
-	8. Traps and Exceptions
-	9. Interrupts
-	10. Schedulars
-3. Embedded Primitives
-4. Snap and containerisation systems
-5. LSM and AppArmour
-6. Chisel
-### Questions
+# LFX
+
+- [x] Read DFI Paper
+- [x] Read RvDFI Paper
+- [ ] Generalize DFI understanding
+- [ ] Read Sargantana Paper
+- [ ] Generalize and discuss DFI Implementation
+- [ ] Setup LLVM for DFI
+- [ ] Read LLVM IR for DFI susceptible units
+- [ ] Check Sargantana Tools
