@@ -23,7 +23,7 @@
 
 | Exercise                                                            | Target (sets/reps) |   Set 1   |   Set 2   |   Set 3   | Next |
 | :------------------------------------------------------------------ | :----------------: | :-------: | :-------: | :-------: | :--- |
-| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)     |      2 (4-6)       | -32 \| 4  | -36 \| 3  |     x     | -    |
+| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)     |      2 (4-6)       | -27 \| 4  | -36 \| 3  |     x     | -    |
 | [Seated Cable Row](https://www.youtube.com/shorts/qD1WZ5pSuvk)      |      2 (6-8)       |  50 \| 8  |  47 \| 8  |     x     | =    |
 | [Face Pulls](https://www.youtube.com/shorts/IeOqdw9WI90)            |      3 (8-12)      |  41 \| 8  |  45\| 8   |  36 \| 9  | +    |
 | [Bicep Curls](https://www.youtube.com/shorts/MKWBV29S6c0)           |      3 (6-10)      | 12.5 \| 8 | 12.5 \| 8 | 12.5 \| 6 | =    |
@@ -37,7 +37,7 @@
 | :----------------------------------------------------------------------- | :----------------: | :-----------: | :----------: | :----------: | :--- |
 | [Leg Press](https://www.youtube.com/shorts/EotSw18oR9w)                  |      2 (8-10)      |   150 \| 8    |   150 \| 9   |      x       | =    |
 | [Hamstring Curls](https://www.youtube.com/shorts/_lgE0gPvbik)            |      2 (8-10)      |   68 \| 10    |   64 \| 10   |      x       | =    |
-| [Leg Extensions](https://www.youtube.com/shorts/iQ92TuvBqRo)             |      2 (8-10)      |   91 \| 10    |   91 \| 8    |      x       | =    |
+| [Leg Extensions](https://www.youtube.com/shorts/iQ92TuvBqRo)             |      2 (8-10)      |   91 \| 10    |   91 \| 8    |      x       | +    |
 | [Machine Ab Crunch](https://www.youtube.com/watch?v=V7p_DmkYLZw)         |     3 (10-12)      |   32 \| 10    |   32 \| 10   |   32 \| 10   | =    |
 | [Captain's Chair Knee Raise](https://www.youtube.com/shorts/PpZxg66ftYc) |     3 (10-12)      |      BW       |      BW      |      BW      | =    |
 | [Rotary Torso](https://www.youtube.com/watch?v=97boSjZ0erk)              |     3 (10-12)      |   36 \| 10    |   36 \| 10   |   36 \| 10   | =    |
@@ -75,3 +75,4 @@
 | **Ankles & Shins**<br> | [Tibialis Wall Raises](https://www.youtube.com/watch?v=VzIcGAgBiaM)    | 15 reps              | Back against wall, pull toes up  |
 
 ---
+Hip internal rotation https://youtube.com/shorts/RkkWfy2w-OA
