@@ -1,12 +1,19 @@
+# Instruction Dataflow Walkthroughs
 
 To understand how hardware units collaborate inside the **Sargantana `core_tile`**, this document walks through the step-by-step lifecycle of three representative operations:
+
 1. **Trace 1: Basic Integer ALU Operation** (`addi s0, zero, 1`)
 2. **Trace 2: Memory Load & Store Pipeline** (`ld` & `sd`) through LSQ and HPDCache
 3. **Trace 3: Branch Prediction, Misprediction Detection & Checkpoint Rollback**
 
+> For the debugging tooling that produces the traces below (commit log, Konata,
+> waveforms), see [[tooling_and_simulation]]. For stage/module details see
+> [[pipeline_overview]].
+
 ## 1. Trace 1: Integer ALU Operation
 
 Consider the first instruction executed in the BootROM:
+
 ```assembly
 addiw s0, zero, 1    # x8 = 0 + 1 (sign-extended 32-bit to 64-bit)
 ```
@@ -57,6 +64,7 @@ sequenceDiagram
 ## 2. Trace 2: Memory Load & Store Pipeline
 
 Consider a load and store sequence:
+
 ```assembly
 ld a0, 0(s0)    # Load double-word from [s0 + 0] into a0
 sd a0, 8(s0)    # Store double-word from a0 into [s0 + 8]
@@ -92,9 +100,12 @@ sd a0, 8(s0)    # Store double-word from a0 into [s0 + 8]
 ### Why Stores Are Buffered
 
 To maintain precise exceptions, **stores cannot touch the cache or memory while they are speculative**. If an earlier instruction raises an exception (or a branch mispredicts), all speculative stores must simply be discarded.
-- In Sargantana, the store sits in `store_buffer.sv`.
-- Only when the store reaches the head of the Graduation List and commits does the core assert `is_commit_store_valid`.
+
+- In Sargantana, the store sits in [[store_buffer]].
+- Only when the store reaches the head of the [[graduation_list]] and commits does the core assert `is_commit_store_valid`.
 - The Store Buffer then drains the store data into HPDCache.
+
+See [[mem_unit]], [[load_store_queue]], [[store_buffer]] and [[pending_mem_req_queue]] for the RTL side.
 
 ## 3. Trace 3: Branch Prediction & Speculative Checkpoint Rollback
 
@@ -148,8 +159,14 @@ S  13  0  F2
 S  13  0  D
 ```
 
+See [[branch_predictor]], [[bimodal_predictor]], [[branch_unit]], [[rename_table]] and [[control_unit]] for the RTL side.
+
 ## 4. Key Takeaways for RTL Developers
 
-1. **Check the Rename Table Checkpoints**: If you modify the decoder or branch predictor, ensure branch tags and checkpoint allocation pointers remain in lockstep.
-2. **Observe the Store Buffer**: Memory corruption often occurs if stores drain before commit or if load-to-store forwarding fails in the LSQ.
+1. **Check the Rename Table Checkpoints**: If you modify the [[decoder]] or [[branch_predictor]], ensure branch tags and checkpoint allocation pointers remain in lockstep.
+2. **Observe the Store Buffer**: Memory corruption often occurs if stores drain before commit or if load-to-store forwarding fails in the [[load_store_queue]].
 3. **Use PMU Counters**: If performance is lower than expected, check `hpm_counters` event 18 (`data_depend`), event 20 (`grad_list_full`), and event 29 (`dcache_stall`).
+
+## Related
+
+[[pipeline_overview]] · [[tooling_and_simulation]] · [[alu]] · [[mem_unit]] · [[load_store_queue]] · [[store_buffer]] · [[branch_predictor]] · [[branch_unit]] · [[rename_table]] · [[graduation_list]] · [[control_unit]]

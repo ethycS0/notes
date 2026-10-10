@@ -176,3 +176,8 @@ recover_commit` (see [[drac_pkg]] `cu_ir_t`).
 | EXE→WB FP     | `exe_wb_fp_instr_t`                     | `drac_pkg.sv:894`  |
 | GL entry      | `gl_instruction_t`                      | `drac_pkg.sv:1238` |
 | GL write-back | `gl_wb_data_t`                          | `drac_pkg.sv:1278` |
+
+## See also
+
+- [[instruction_dataflow]] — worked end-to-end traces (ALU, load/store, branch rollback).
+- [[tooling_and_simulation]] — how to build `./sim` and inspect commit logs, Konata, and waveforms.

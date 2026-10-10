@@ -1,17 +1,19 @@
 # Sargantana Core — Datapath Notes (MOC)
 
 Reference notes for the **Sargantana** in-order, superscalar (2-wide) RISC-V core datapath.
-All RTL paths are relative to
-`core_tile/rtl/core/sargantana/` unless stated otherwise.
+
+All RTL paths are relative to `core_tile/rtl/core/sargantana/` unless stated otherwise.
 
 > Source root: `core_tile/rtl/core/sargantana/rtl/datapath/`
 > Packages: `core_tile/rtl/core/sargantana/includes/`
 
 ## Map of Content
 
-- [[pipeline_overview]] — **start here**. Mermaid block diagram + stage-by-stage breakdown.
+- [[pipeline_overview]] — **start here**. Block diagram + stage-by-stage breakdown.
 - [[datapath]] — top-level `datapath.sv` wiring hub.
 - [[control_unit]] — pipeline stalling/flushing/redirect FSM.
+- [[tooling_and_simulation]] — Verilator / `./sim`, commit log, Konata, waveforms.
+- [[instruction_dataflow]] — worked instruction traces across the pipeline.
 
 ### Stages
 
@@ -38,6 +40,11 @@ All RTL paths are relative to
 - [[drac_pkg]] — configuration, structs and enums for every stage boundary.
 - [[def_pkg]] — ISA/extension configuration and exception type.
 - [[riscv_pkg]] — instruction encodings, CSRs, causes.
+
+### Workflows
+
+- [[tooling_and_simulation]] — Verilator build, `./sim` plusargs, commit log (`signature.txt`), Konata, GTKWave, and the 4-level debugging methodology.
+- [[instruction_dataflow]] — step-by-step lifecycle of ALU, load/store, and branch-misprediction instructions across the pipeline.
 
 ## Quick pipeline summary
 

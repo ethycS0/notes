@@ -4,6 +4,9 @@ The **Sargantana `core_tile`** verification and simulation ecosystem is built to
 
 This guide details how to build, run, trace, and debug the tile using **Verilator**, **Commit Logs**, **Konata Pipeline Diagrams**, and **Waveform Traces**.
 
+> Paths in this document are relative to the **repository root**, not to
+> `core_tile/rtl/core/sargantana/`. For datapath RTL details see [[pipeline_overview]].
+
 ## 1. Simulator Architecture
 
 The primary simulation environment is driven by **Verilator** (compiling SystemVerilog to high-speed multithreaded C++ binaries) with SystemVerilog Direct Programming Interface (**DPI-C**) extensions for ELF loading, instruction disassembly, and trace dumping.
@@ -78,7 +81,7 @@ The resulting simulation executable is located directly in the root as `./sim`.
 
 ## 4. Deep Dive: Commit Log (`signature.txt`)
 
-The Commit Log is the fastest way to verify architectural correctness. Every time an instruction reaches the head of the Graduation List and legitimately commits, `dpi_commit_log.cpp` records the architectural state mutation.
+The Commit Log is the fastest way to verify architectural correctness. Every time an instruction reaches the head of the [[graduation_list]] and legitimately commits, `dpi_commit_log.cpp` records the architectural state mutation.
 
 ### Log Output Format
 
@@ -170,10 +173,11 @@ R    5    5    1      # Retire instruction 5 (1 = squashed/flushed!)
 | **`V`**   | Vector Unit        | Vector arithmetic and VAGU memory operations.                             |
 | **`FP`**  | FPU Unit           | Floating-point pipeline.                                                  |
 | **`E`**   | System / CSR       | CSR reads, writes, and privilege switches.                                |
+
 ### Visual Patterns to Identify in Konata
 
 1. **Pipeline Bubble**: Horizontal gap between `F1` and `D` indicates I-Cache misses or branch redirect delays.
-2. **Structural Stall**: Instruction stays stuck in `Q` or `I` because the Free List is empty (no free physical registers) or Graduation List (ROB) is full.
+2. **Structural Stall**: Instruction stays stuck in `Q` or `I` because the [[free_list]] is empty (no free physical registers) or [[graduation_list]] (ROB) is full.
 3. **Data Dependency Stall**: Instruction reaches `R` (Register Read) and waits several cycles because its source register is being computed by an in-flight `M` (Load) or `DIV`.
 4. **Branch Misprediction Flush**: When a branch resolves in `B`, all subsequent younger instructions turn red with `R <id> <id> 1` (flushed), and new instructions enter `F1` at the corrected target PC.
 
@@ -260,7 +264,7 @@ When modifying RTL or diagnosing unexpected behavior, **never start by guessing 
 
 ### Concrete Walkthrough Example: Tracking a Modified Instruction
 
-Suppose you add or modify an instruction in the decoder:
+Suppose you add or modify an instruction in the [[decoder]]:
 
 1. **Step 1: Run with full logs enabled**:
    ```bash
@@ -288,3 +292,7 @@ Suppose you add or modify an instruction in the decoder:
    gtkwave focus.vcd
    ```
    Add `stage_iq_ir_q` and `control_int.stall_*` signals to pinpoint the root cause down to the exact gate.
+
+## Related
+
+[[pipeline_overview]] · [[instruction_dataflow]] · [[datapath]] · [[control_unit]] · [[graduation_list]] · [[free_list]] · [[decoder]] · [[drac_pkg]]
