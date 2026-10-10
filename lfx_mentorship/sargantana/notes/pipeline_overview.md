@@ -7,6 +7,7 @@ This file is the canonical wiring hub — **read it alongside this diagram**.
 ## Block diagram
 
 ![[sargantana_pipeline.svg]]
+
 ### Module → document map
 
 | Diagram node                                    | Document                                                                        |

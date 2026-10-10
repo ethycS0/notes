@@ -9,8 +9,7 @@ Wired in [[datapath]] at `datapath.sv:411` (IF1) and `datapath.sv:446` (IF2).
 
 ## Purpose
 
-Two-cycle fetch. IF1 maintains the PC and issues the i-cache request; IF2 consumes
-the i-cache response and produces the 32-bit instruction with its fetch exceptions.
+Two-cycle fetch. IF1 maintains the PC and issues the i-cache request; IF2 consumes the i-cache response and produces the 32-bit instruction with its fetch exceptions.
 
 ## IF1 (`if_stage_1.sv`)
 
