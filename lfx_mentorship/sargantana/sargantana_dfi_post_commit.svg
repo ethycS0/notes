@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest" viewBox="0 0 2420 1370" width="2420" height="1370" font-family="'DejaVu Sans', Verdana, Arial, sans-serif"><defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,1 L9,5 L0,9 z" fill="#565d6b"/>
+    </marker>
+    <marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,1 L9,5 L0,9 z" fill="#5b4a9a"/>
+    </marker>
+    <style>
+      .bg { fill:#ffffff; }
+      .gbox { fill:#e3f1ea; stroke:#2f7d62; stroke-width:1.6; }
+      .xbox { fill:#cbd0d8; stroke:#5f6672; stroke-width:1.6; }
+      .pbox { fill:#ece8f7; stroke:#5b4a9a; stroke-width:1.8; }
+      .cont { fill:none; stroke:#2f7d62; stroke-width:1.6; }
+      .contg { fill:none; stroke:#9aa0aa; stroke-width:1.4; }
+      .contp { fill:none; stroke:#5b4a9a; stroke-width:1.8; }
+      .ln { fill:none; stroke:#565d6b; stroke-width:1.6; }
+      .dash { fill:none; stroke:#565d6b; stroke-width:1.6; stroke-dasharray:6 4; }
+      .lp { fill:none; stroke:#5b4a9a; stroke-width:1.7; }
+      .dp { fill:none; stroke:#5b4a9a; stroke-width:1.7; stroke-dasharray:7 5; }
+      .t { fill:#0f4a35; font-weight:bold; font-size:17px; text-anchor:middle; }
+      .s { fill:#0f4a35; font-size:14px; text-anchor:middle; }
+      .pt { fill:#3b2f72; font-weight:bold; font-size:16px; text-anchor:middle; }
+      .ps { fill:#3b2f72; font-size:14px; text-anchor:middle; }
+      .tg { fill:#2d3748; font-weight:bold; font-size:20px; text-anchor:middle; }
+      .sg { fill:#2d3748; font-size:16px; text-anchor:middle; }
+      .lbl { fill:#6b7280; font-size:13px; }
+      .lblr { fill:#6b7280; font-size:13px; text-anchor:end; }
+      .plbl { fill:#5b4a9a; font-size:13px; }
+      .plblr { fill:#5b4a9a; font-size:13px; text-anchor:end; }
+      .grp { fill:#0f4a35; font-weight:bold; font-size:16px; }
+      .big { fill:#0f4a35; font-weight:bold; font-size:22px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="2420" height="1370"/>
+
+  <!-- Title -->
+  <text x="53" y="65" style="font-size:34px;font-weight:bold;fill:#0f4a35">Sargantana + DFI    [ Co-Processor Implementation ]</text>
+  <text x="53" y="98" style="font-size:18px;fill:#6b7280">Baseline integration · custom0 instrumentation · graduation pairing · shared HPDCache access</text>
+
+  <!-- Containers -->
+  <rect class="cont" x="30" y="125" width="1960" height="1115"/>
+  <text class="big" x="50" y="162">Sargantana core_tile</text>
+  <rect class="cont" x="60" y="171" width="1325" height="749"/>
+  <text class="big" x="80" y="203">Sargantana core</text>
+  <text x="310" y="202" style="font-size:16px;fill:#6b7280">RV64 · seven stages · in-order issue</text>
+  <text class="grp" x="110" y="272">Instruction pipeline</text>
+
+  <rect class="contg" x="2020" y="125" width="370" height="1115"/>
+  <text x="2042" y="166" style="font-size:20px;font-weight:bold;fill:#2d3748">Lower Memory Hierarchy</text>
+
+  <rect class="contp" x="1505" y="215" width="390" height="545"/>
+  <text x="1525" y="255" style="font-size:17px;font-weight:bold;fill:#3b2f72">DFI Coprocessor — Basic DFI</text>
+
+  <!-- custom0 decode box -->
+  <rect class="pbox" x="340" y="212" width="250" height="50"/>
+  <text class="pt" x="465" y="232" style="font-size:15px">custom0 decode / ID + type</text>
+  <text class="ps" x="465" y="251" style="font-size:13px">16-bit static ID</text>
+
+  <!-- Pipeline blocks -->
+  <rect class="gbox" x="110" y="305" width="100" height="72"/>
+  <text class="t" x="160" y="337">Fetch 1</text><text class="s" x="160" y="356">PC / predict</text>
+  <rect class="gbox" x="234" y="305" width="100" height="72"/>
+  <text class="t" x="284" y="337">Fetch 2</text><text class="s" x="284" y="356">Instructions</text>
+  <rect class="gbox" x="358" y="305" width="100" height="72"/>
+  <text class="t" x="408" y="337">Decode</text><text class="s" x="408" y="356">Opcode</text>
+  <rect class="gbox" x="482" y="305" width="100" height="72"/>
+  <text class="t" x="532" y="337">Rename</text><text class="s" x="532" y="356">Register map</text>
+  <rect class="gbox" x="606" y="305" width="110" height="72"/>
+  <text class="t" x="661" y="328">Read</text><text class="t" x="661" y="348">Registers</text><text class="s" x="661" y="366">Operands</text>
+  <rect class="gbox" x="740" y="305" width="110" height="72"/>
+  <text class="t" x="795" y="337">Execute</text><text class="s" x="795" y="356">FUs / dispatch</text>
+  <rect class="gbox" x="894" y="305" width="110" height="72"/>
+  <text class="t" x="949" y="337">Writeback</text><text class="s" x="949" y="356">Completion</text>
+
+  <!-- Graduation List / Retirement Control -->
+  <rect class="gbox" x="680" y="470" width="280" height="85"/>
+  <text class="t" x="820" y="498" style="font-size:18px">Graduation List</text>
+  <text class="s" x="820" y="518" style="font-size:15px">32 slots · circular</text>
+  <text class="s" x="820" y="537" style="font-size:15px">head / head+1 candidates</text>
+  <rect class="gbox" x="1090" y="470" width="210" height="85"/>
+  <text class="t" x="1195" y="498" style="font-size:18px">Retirement Control</text>
+  <text class="s" x="1195" y="518" style="font-size:15px">0–2 in-order commits</text>
+  <text class="s" x="1195" y="537" style="font-size:15px">Retire mask / CSR / traps</text>
+
+  <!-- DFI Address Table, Pending Memory Register, Retirement pairing -->
+  <rect class="pbox" x="600" y="585" width="260" height="75"/>
+  <text class="pt" x="730" y="611" style="font-size:17px">DFI Address Table</text>
+  <text class="ps" x="730" y="631">32 × {42-bit PA, valid}</text>
+  <text class="ps" x="730" y="649">Direct GL index</text>
+
+  <rect class="pbox" x="1075" y="615" width="240" height="65"/>
+  <text class="pt" x="1195" y="641" style="font-size:15px">Pending Memory Register</text>
+  <text class="ps" x="1195" y="662">One entry · valid / PA / type</text>
+
+  <rect class="pbox" x="1090" y="725" width="210" height="80"/>
+  <text class="pt" x="1195" y="752" style="font-size:17px">Retirement pairing</text>
+  <text class="ps" x="1195" y="772">Two slots · bypass / replace</text>
+  <text class="ps" x="1195" y="791">Request valid / ready</text>
+
+  <!-- MMU -->
+  <rect class="gbox" x="110" y="715" width="260" height="190"/>
+  <text class="grp" x="125" y="741">MMU / translation</text>
+  <rect class="gbox" x="128" y="758" width="90" height="48"/>
+  <text class="t" x="173" y="788">ITLB</text>
+  <rect class="gbox" x="252" y="758" width="90" height="48"/>
+  <text class="t" x="297" y="788">DTLB</text>
+  <rect class="gbox" x="170" y="852" width="172" height="40"/>
+  <text class="t" x="256" y="877">Shared PTW</text>
+
+  <!-- Memory execution -->
+  <rect class="gbox" x="490" y="715" width="540" height="190"/>
+  <text class="grp" x="505" y="741">Memory execution · mem_unit</text>
+  <rect class="gbox" x="510" y="755" width="140" height="60"/>
+  <text class="t" x="580" y="780">Address gen.</text><text class="s" x="580" y="799">Effective VA</text>
+  <rect class="gbox" x="680" y="755" width="130" height="60"/>
+  <text class="t" x="745" y="780">LSQ</text><text class="s" x="745" y="799">Translate / issue</text>
+  <rect class="gbox" x="850" y="755" width="150" height="60"/>
+  <text class="t" x="925" y="780">Store buffer</text><text class="s" x="925" y="799">Wait for commit</text>
+  <rect class="gbox" x="680" y="852" width="320" height="30"/>
+  <text class="t" x="840" y="872" style="font-size:15px">S0-S2 / tagged memory completion</text>
+
+  <!-- Shared hardware (gray) -->
+  <rect class="xbox" x="110" y="1010" width="230" height="65"/>
+  <text class="tg" x="225" y="1038">L1 I-cache</text><text class="sg" x="225" y="1058">Separate miss / refill</text>
+
+  <rect class="xbox" x="880" y="980" width="840" height="185"/>
+  <text x="1300" y="1056" style="font-size:24px;font-weight:bold;fill:#2d3748;text-anchor:middle">Shared L1 D-cache / HPDCache</text>
+  <text class="sg" x="1300" y="1082">32 KiB · 128 sets × 4 ways · 64-byte lines · write-through</text>
+  <text class="s" x="1300" y="1108" style="fill:#2d3748;font-size:15px">Native arbitration / SID routing · nonblocking misses / MSHRs · write buffer</text>
+
+  <!-- Sargantana adapters (green) -->
+  <rect class="gbox" x="550" y="980" width="240" height="65"/>
+  <text class="t" x="670" y="1008">CPU D-cache adapter</text><text class="s" x="670" y="1027">dcache_interface · SID 1</text>
+  <rect class="gbox" x="550" y="1105" width="240" height="60"/>
+  <text class="t" x="670" y="1132">PTW HPDCache adapter</text><text class="s" x="670" y="1151">Native requester · SID 0</text>
+
+  <!-- DFI coprocessor contents -->
+  <rect class="pbox" x="1525" y="300" width="300" height="100"/>
+  <text class="pt" x="1675" y="330" style="font-size:17px">DFI controller / checking FSM</text>
+  <text class="ps" x="1675" y="353">Retain one accepted request</text>
+  <text class="ps" x="1675" y="374">Serialized lookup / update</text>
+  <text x="1525" y="435" style="font-size:14px;fill:#3b2f72">STORE: RDTable[PA] ← writer ID</text>
+  <text x="1525" y="459" style="font-size:14px;fill:#3b2f72">LOAD: writer = RDTable[PA]</text>
+  <text x="1525" y="483" style="font-size:14px;fill:#3b2f72">writer ∈ RDSets[RDSmap[load ID]]</text>
+  <rect class="pbox" x="1525" y="520" width="300" height="60"/>
+  <text class="pt" x="1675" y="546" style="font-size:15px">Metadata address generation</text>
+  <text class="ps" x="1675" y="566">Reserved-region offsets / bounds</text>
+  <rect class="pbox" x="1525" y="640" width="300" height="60"/>
+  <text class="pt" x="1675" y="666" style="font-size:15px">DFI HPDCache Adapter — SID 2</text>
+  <text class="ps" x="1675" y="686">One outstanding metadata operation</text>
+
+  <!-- Lower memory hierarchy -->
+  <rect class="xbox" x="2040" y="270" width="330" height="100"/>
+  <text class="tg" x="2205" y="315">Lower-memory interfaces</text>
+  <text class="sg" x="2205" y="340" style="font-size:15px">I-cache refill · D-cache read / write</text>
+  <text x="2042" y="434" style="font-size:16px;font-weight:bold;fill:#2d3748">Configuration-dependent backing</text>
+  <text x="2042" y="461" style="font-size:15px;fill:#6b7280">RTL simulation: l2_behav + DPI</text>
+  <text x="2042" y="489" style="font-size:15px;fill:#6b7280">FPGA: AXI4 adaptation</text>
+
+  <rect class="contg" x="2040" y="600" width="330" height="400"/>
+  <text x="2058" y="635" style="font-size:20px;font-weight:bold;fill:#2d3748">L2 / Main Memory</text>
+  <rect class="xbox" x="2060" y="660" width="290" height="52"/>
+  <text class="tg" x="2205" y="692">Program code / data</text>
+  <text x="2060" y="765" style="font-size:16px;font-weight:bold;fill:#3b2f72">Reserved DFI metadata regions</text>
+  <rect class="pbox" x="2060" y="785" width="290" height="50"/>
+  <text class="pt" x="2205" y="815" style="font-size:14px">RDTable · last writer / 4-byte unit</text>
+  <rect class="pbox" x="2060" y="860" width="135" height="75"/>
+  <text class="pt" x="2127" y="884" style="font-size:15px">RDSmap</text>
+  <text class="ps" x="2127" y="903">Load ID →</text>
+  <text class="ps" x="2127" y="921">set bounds</text>
+  <rect class="pbox" x="2215" y="860" width="135" height="75"/>
+  <text class="pt" x="2282" y="884" style="font-size:15px">RDSets</text>
+  <text class="ps" x="2282" y="903">Permitted</text>
+  <text class="ps" x="2282" y="921">writer IDs</text>
+
+  <!-- ================= Baseline connections ================= -->
+  <path class="ln" d="M210,341 H234" marker-end="url(#arr)"/>
+  <path class="ln" d="M334,341 H358" marker-end="url(#arr)"/>
+  <path class="ln" d="M458,341 H482" marker-end="url(#arr)"/>
+  <path class="ln" d="M582,341 H606" marker-end="url(#arr)"/>
+  <path class="ln" d="M716,341 H740" marker-end="url(#arr)"/>
+  <path class="ln" d="M850,341 H894" marker-end="url(#arr)"/>
+
+  <!-- Fetch 2 <-> L1 I-cache -->
+  <path class="ln" d="M284,377 V660 H80 V1042 H110" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text class="lbl" x="100" y="651">Fetch / instructions</text>
+
+  <!-- Read Registers -> Graduation List -->
+  <path class="ln" d="M636,377 V512 H680" marker-end="url(#arr)"/>
+  <text class="lblr" x="626" y="482">Allocate /</text>
+  <text class="lblr" x="626" y="498">assign GL index</text>
+
+  <!-- Execute -> Address gen -->
+  <path class="ln" d="M770,377 V420 H642 a6,6 0 0 0 -12,0 H460 V795 H510" marker-end="url(#arr)"/>
+  <text class="lbl" x="476" y="441">Address + operation</text>
+  <text class="lbl" x="476" y="457">+ GL index</text>
+
+  <!-- Writeback -> Graduation List -->
+  <path class="ln" d="M920,377 V470" marker-end="url(#arr)"/>
+
+  <!-- S0-S2 completion -> Writeback (around the right of the retirement column, hops over DFI request lines) -->
+  <path class="ln" d="M1000,867 H1355 V773 a8,8 0 0 1 0,-16 V498 a8,8 0 0 1 0,-16 V415 H979 V377" marker-end="url(#arr)"/>
+  <text class="lblr" x="1345" y="406">Out-of-order WB · GL index</text>
+
+  <!-- GL <-> Retirement -->
+  <path class="ln" d="M960,500 H1090" marker-end="url(#arr)"/>
+  <path class="dash" d="M1090,530 H960" marker-end="url(#arr)"/>
+
+  <!-- Retirement <-> Store buffer (dashed) -->
+  <path class="dash" d="M1105,555 V590 H925 V755" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text class="lblr" x="1095" y="582">Commit / stall + GL index</text>
+
+  <!-- Memory execution internals -->
+  <path class="ln" d="M650,775 H680" marker-end="url(#arr)"/>
+  <path class="ln" d="M810,785 H850" marker-end="url(#arr)"/>
+  <path class="ln" d="M745,815 V852" marker-end="url(#arr)"/>
+  <path class="ln" d="M925,815 V852" marker-end="url(#arr)"/>
+
+  <!-- DTLB <-> LSQ (dashed) -->
+  <path class="dash" d="M342,782 H430 V833 H665 V802 H680" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text class="lbl" x="500" y="850">DTLB req / PPN</text>
+
+  <!-- MMU internal -->
+  <path class="ln" d="M195,806 V852" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <path class="ln" d="M297,806 V852" marker-start="url(#arr)" marker-end="url(#arr)"/>
+
+  <!-- ITLB <-> L1 I-cache (dashed) -->
+  <path class="dash" d="M145,806 V1010" marker-start="url(#arr)" marker-end="url(#arr)"/>
+
+  <!-- Shared PTW <-> PTW adapter -->
+  <path class="ln" d="M342,872 H400 V1135 H550" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text class="lbl" x="408" y="1120">Physical PTE access</text>
+
+  <!-- S0-S2 <-> CPU D-cache adapter -->
+  <path class="ln" d="M950,882 V955 H670 V980" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text class="lbl" x="680" y="947">Program loads / committed stores</text>
+
+  <!-- Adapters <-> HPDCache -->
+  <path class="ln" d="M790,1012 H880" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <path class="ln" d="M790,1135 H880" marker-start="url(#arr)" marker-end="url(#arr)"/>
+
+  <!-- HPDCache <-> Lower-memory interfaces -->
+  <path class="ln" d="M1720,1072 H1930 V295 H2040" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text class="lblr" x="1920" y="900">Shared read / write</text>
+  <text class="lblr" x="1920" y="917">and refill traffic</text>
+
+  <!-- L1 I-cache <-> Lower-memory interfaces (independent path) -->
+  <path class="ln" d="M225,1075 V1205 H1960 V345 H2040" marker-start="url(#arr)" marker-end="url(#arr)"/>
+  <text class="lbl" x="700" y="1196">I-cache miss / refill · independent path</text>
+
+  <!-- Lower-memory interfaces <-> L2 -->
+  <path class="ln" d="M2355,370 V600" marker-start="url(#arr)" marker-end="url(#arr)"/>
+
+  <!-- ================= DFI connections (purple) ================= -->
+  <!-- Decode -> custom0 decode -->
+  <path class="lp" d="M408,305 V262" marker-end="url(#arrp)"/>
+  <text class="plbl" x="358" y="394">Marker fields follow instruction</text>
+
+  <!-- custom0 decode -> Graduation List (down through the Execute/Writeback gap) -->
+  <path class="lp" d="M590,237 H872 V333 a8,8 0 0 1 0,16 V470" marker-end="url(#arrp)"/>
+
+  <!-- Graduation List -> DFI Address Table -->
+  <path class="lp" d="M700,555 V585" marker-end="url(#arrp)"/>
+  <!-- LSQ -> DFI Address Table -->
+  <path class="lp" d="M790,755 V660" marker-end="url(#arrp)"/>
+  <text class="plblr" x="780" y="695">PA + GL index</text>
+
+  <!-- DFI Address Table -> Retirement pairing (hops over commit dashed line) -->
+  <path class="lp" d="M860,622 H919 a6,6 0 0 1 12,0 H1060 V765 H1090" marker-end="url(#arrp)"/>
+  <text class="lbl" x="936" y="642">Retired memory</text>
+  <text class="lbl" x="936" y="658">metadata</text>
+
+  <!-- Retirement Control -> Pending Memory Register -->
+  <path class="lp" d="M1190,555 V615" marker-end="url(#arrp)"/>
+  <!-- Pending Memory Register <-> Retirement pairing -->
+  <path class="lp" d="M1180,680 V725" marker-start="url(#arrp)" marker-end="url(#arrp)"/>
+  <!-- Retirement Control -> Retirement pairing (custom0: ID + type) -->
+  <path class="lp" d="M1300,535 H1325 V705 H1250 V725" marker-end="url(#arrp)"/>
+  <text class="plblr" x="1318" y="698">custom0: ID + type</text>
+
+  <!-- Retirement pairing -> DFI controller -->
+  <path class="lp" d="M1300,765 H1465 V375 H1525" marker-end="url(#arrp)"/>
+  <text class="plbl" x="1390" y="785">DFI request: ID + type</text>
+  <text class="plbl" x="1390" y="805">+ PA</text>
+
+  <!-- DFI controller -> Retirement Control (dashed) -->
+  <path class="dp" d="M1525,330 H1395 V490 H1300" marker-end="url(#arrp)"/>
+  <text class="lbl" x="1400" y="324" style="font-size:12px;fill:#6b7280">Request</text>
+  <text x="1400" y="343" style="font-size:12px;fill:#6b7280">acceptance</text><text class="lbl" x="1400" y="359" style="font-size:12px;fill:#6b7280">backpressure</text>
+
+  <!-- Controller <-> Metadata address generation -->
+  <path class="lp" d="M1825,375 H1850 V550 H1825" marker-start="url(#arrp)" marker-end="url(#arrp)"/>
+  <!-- Metadata address generation <-> DFI HPDCache adapter -->
+  <path class="lp" d="M1675,580 V640" marker-start="url(#arrp)" marker-end="url(#arrp)"/>
+  <text class="lblr" x="1665" y="605">Metadata read / write</text>
+  <text class="lblr" x="1665" y="621">commands</text>
+
+  <!-- DFI HPDCache adapter <-> Shared HPDCache -->
+  <path class="lp" d="M1550,700 V980" marker-start="url(#arrp)" marker-end="url(#arrp)"/>
+  <text class="lblr" x="1725" y="880">SID 2 · request / response</text>
+
+  <!-- DFI violation / status -->
+  <path class="dp" d="M1825,320 H1870 V180 H1720" marker-end="url(#arrp)"/>
+  <text class="lbl" x="1535" y="185">DFI violation / status</text>
+
+  <!-- Legend / footer -->
+  <text x="53" y="1280" style="font-size:15px;fill:#3b2f72">Instrumentation: LW → CUSTOM0 LOAD, ID=17 · SW → CUSTOM0 STORE, ID=42</text>
+  <text x="53" y="1310" style="font-size:15px;fill:#3b2f72">Proposed hardware · scalar-word initial scope · violation / exception policy remains open</text>
+  <text x="2370" y="1280" style="font-size:15px;fill:#6b7280;text-anchor:end">Green: Sargantana · Gray: shared hardware</text>
+  <text x="2370" y="1310" style="font-size:15px;fill:#3b2f72;text-anchor:end">Purple: proposed DFI additions</text>
+  <text x="53" y="1348" style="font-size:13px;fill:#6b7280">Sources: checked-out core_tile 2528e7d · Sargantana 403975c · HPDCache c523164 · Feng et al., RVDFI §4</text>
+  <text x="2370" y="1348" style="font-size:13px;fill:#6b7280;text-anchor:end">↔ request / response   Dashed: control / translation</text>
+</svg>

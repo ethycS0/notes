@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2490 1370" width="2490" height="1370" role="img" aria-label="Sargantana seven-stage core with pre-commit DFI: RR request to DFI coprocessor, GL tap, mem_unit tap, direct L1 metadata fetch" font-family="'DejaVu Sans', Verdana, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1ZWYzZmFiYS1kZTc0LTRhMmItYTQ0MS05NmIxYzgyNGQyZDQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCKBtj+rhnvOaz772PBhyTgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowMDEwY2Y2ZC03MTU4LTQ3NzktYWI0ZS00MDcyNTQ2N2E3OGRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNox5owCAVo13NTCUWJiz47QAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgglDP5Du7plQ0xQPZzXwYIrBnvHqyOBAvVeptmrdvpdFekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKRKGDfITZ3YiJ+QMFPomMoAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIMKt0rRr/Zb5ieqOlbb9l06VPpEPZyiDK6cBe3BBzPcTZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQGQZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjVlZjNmYWJhLWRlNzQtNGEyYi1hNDQxLTk2YjFjODI0ZDJkNC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY1ZWFiMGVkLWZiMTQtNGIwOC1hZDRiLTEyMDJmYmZkZmI4MnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCUM/kO7umVDTFA9nNfBgisGe8erI4EC9V6m2at2+l0V6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgge/8+/im2f5uB5OHfzD9uuyGuzzhStKkoLTy+7IxgbN+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg4GOMMkNBfK+6ItqalIa6WXTib6X6M6SZppEfHFIVz8R0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIFEX9O2Njk2fgMZrlPPPNm3L5W+urjSLOtcliU6B0lBDQQZCP7bJ8Fd27dtoeCzbJkxFYMebFWVV/Y6bxZMsLI=</c2pa:manifest></metadata>
+<defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#565d6b"/></marker>
+  <marker id="arrp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#5b4a9a"/></marker>
+  <style>
+    .bg { fill:#ffffff; }
+    .gbox { fill:#e3f1ea; stroke:#2f7d62; stroke-width:1.6; }
+    .xbox { fill:#cbd0d8; stroke:#5f6672; stroke-width:1.6; }
+    .pbox { fill:#ece8f7; stroke:#5b4a9a; stroke-width:1.8; }
+    .cont { fill:none; stroke:#2f7d62; stroke-width:1.6; }
+    .contg { fill:none; stroke:#9aa0aa; stroke-width:1.4; }
+    .contp { fill:none; stroke:#5b4a9a; stroke-width:1.8; }
+    .contp2 { fill:#f6f4fb; stroke:#8f80c4; stroke-width:1.4; }
+    .mod { fill:none; stroke:#5b4a9a; stroke-width:2; stroke-dasharray:7 4; }
+    .ln { fill:none; stroke:#565d6b; stroke-width:1.6; }
+    .dash { fill:none; stroke:#565d6b; stroke-width:1.6; stroke-dasharray:6 4; }
+    .lp { fill:none; stroke:#5b4a9a; stroke-width:1.7; }
+    .t { fill:#0f4a35; font-weight:bold; font-size:17px; text-anchor:middle; }
+    .s { fill:#0f4a35; font-size:14px; text-anchor:middle; }
+    .pt { fill:#3b2f72; font-weight:bold; font-size:14px; text-anchor:middle; }
+    .ps { fill:#3b2f72; font-size:12px; text-anchor:middle; }
+    .tg { fill:#2d3748; font-weight:bold; font-size:20px; text-anchor:middle; }
+    .sg { fill:#2d3748; font-size:16px; text-anchor:middle; }
+    .lbl { fill:#6b7280; font-size:13px; }
+    .lblr { fill:#6b7280; font-size:13px; text-anchor:end; }
+    .plbl { fill:#5b4a9a; font-size:12px; }
+    .plblr { fill:#5b4a9a; font-size:12px; text-anchor:end; }
+    .grp { fill:#0f4a35; font-weight:bold; font-size:16px; }
+    .big { fill:#0f4a35; font-weight:bold; font-size:22px; }
+    .key { fill:#3b2f72; font-size:14px; }
+  </style>
+</defs>
+<rect class="bg" width="2490" height="1370"/>
+
+<!-- Title -->
+<text x="53" y="65" style="font-size:34px;font-weight:bold;fill:#0f4a35">Sargantana DFI</text>
+<text x="53" y="98" style="font-size:18px;fill:#6b7280">Seven-stage core · in-order issue · out-of-order execution · up to 2 in-order retirements · DFI check gates load graduation</text>
+
+<!-- Containers -->
+<rect class="cont" x="30" y="125" width="2030" height="1115"/>
+<text class="big" x="50" y="155">Sargantana core_tile</text>
+<rect class="cont" x="60" y="171" width="1325" height="749"/>
+<text class="big" x="80" y="203">Sargantana core</text>
+<text x="310" y="202" style="font-size:16px;fill:#6b7280">RV64 · seven stages · in-order issue</text>
+<text class="grp" x="110" y="272">Instruction pipeline</text>
+
+<rect class="contg" x="2090" y="125" width="370" height="1115"/>
+<text x="2112" y="166" style="font-size:20px;font-weight:bold;fill:#2d3748">Lower Memory Hierarchy</text>
+
+<!-- DFI coprocessor container -->
+<rect class="contp" x="1470" y="205" width="530" height="690"/>
+<text x="1490" y="227" style="font-size:17px;font-weight:bold;fill:#3b2f72">DFI Coprocessor — Pre-Commit DFI</text>
+
+<rect class="gbox" x="110" y="305" width="100" height="72"/>
+<text class="t" x="160.0" y="337">Fetch 1</text>
+<text class="s" x="160.0" y="356">PC / predict</text>
+<rect class="gbox" x="234" y="305" width="100" height="72"/>
+<text class="t" x="284.0" y="337">Fetch 2</text>
+<text class="s" x="284.0" y="356">Instructions</text>
+<rect class="gbox" x="358" y="305" width="100" height="72"/>
+<text class="t" x="408.0" y="337">Decode</text>
+<text class="s" x="408.0" y="356">Opcode</text>
+<rect class="gbox" x="482" y="305" width="100" height="72"/>
+<text class="t" x="532.0" y="337">Rename</text>
+<text class="s" x="532.0" y="356">Register map</text>
+<rect class="gbox" x="606" y="305" width="110" height="72"/>
+<text class="t" x="661.0" y="328">Read</text>
+<text class="t" x="661.0" y="348">Registers</text>
+<text class="s" x="661.0" y="366">Operands</text>
+<rect class="gbox" x="740" y="305" width="110" height="72"/>
+<text class="t" x="795.0" y="337">Execute</text>
+<text class="s" x="795.0" y="356">FUs / dispatch</text>
+<rect class="gbox" x="894" y="305" width="110" height="72"/>
+<text class="t" x="949.0" y="337">Writeback</text>
+<text class="s" x="949.0" y="356">Completion</text>
+<rect class="gbox" x="680" y="470" width="280" height="85"/>
+<text class="t" x="820" y="494" style="font-size:18px">Graduation List</text>
+<text class="s" x="820" y="515" style="font-size:14px">32 slots · circular · head / head+1</text>
+<text class="s" x="820" y="535" style="font-size:13px">mem + custom0 pair · load needs DFI OK</text>
+<rect class="mod" x="673" y="463" width="294" height="99"/>
+<rect class="gbox" x="1090" y="470" width="210" height="85"/>
+<text class="t" x="1195" y="498" style="font-size:18px">Retirement Control</text>
+<text class="s" x="1195" y="518" style="font-size:15px">0–2 in-order commits</text>
+<text class="s" x="1195" y="537" style="font-size:15px">Retire mask / CSR / traps</text>
+<rect class="pbox" x="1110" y="605" width="230" height="137"/>
+<text class="pt" x="1225" y="626" style="font-size:16px">DFI–GL tap</text>
+<text class="ps" x="1225" y="646">GL[i] custom0 · GL[i−1] mem op</text>
+<text class="ps" x="1225" y="663">← DFIC: GL entry + load verdict</text>
+<text class="ps" x="1225" y="680">→ DFIC: store graduated + GL idx</text>
+<text class="ps" x="1225" y="697">→ GL: set OK on pair</text>
+<text class="ps" x="1225" y="714">← GL: flush (Control unit → GL)</text>
+<text class="ps" x="1225" y="731">→ DFIC: flush GL idx + younger</text>
+<rect class="pbox" x="1110" y="762" width="230" height="85"/>
+<text class="pt" x="1225" y="784" style="font-size:16px">DFI mem tap</text>
+<text class="ps" x="1225" y="805">mem_unit op set in transit</text>
+<text class="ps" x="1225" y="823">→ DFIC: PA + GL index</text>
+<rect class="gbox" x="110" y="715" width="260" height="190"/>
+<text class="grp" x="125" y="741">MMU / translation</text>
+<rect class="gbox" x="128" y="758" width="90" height="48"/>
+<text class="t" x="173" y="788">ITLB</text>
+<rect class="gbox" x="252" y="758" width="90" height="48"/>
+<text class="t" x="297" y="788">DTLB</text>
+<rect class="gbox" x="170" y="852" width="172" height="40"/>
+<text class="t" x="256" y="877">Shared PTW</text>
+<rect class="gbox" x="490" y="715" width="540" height="190"/>
+<text class="grp" x="505" y="741">Memory execution · mem_unit</text>
+<rect class="gbox" x="510" y="755" width="140" height="60"/>
+<text class="t" x="580" y="780">Address gen.</text>
+<text class="s" x="580" y="799">Effective VA</text>
+<rect class="gbox" x="680" y="755" width="130" height="60"/>
+<text class="t" x="745" y="780">LSQ</text>
+<text class="s" x="745" y="799">Translate / issue</text>
+<rect class="gbox" x="850" y="755" width="150" height="60"/>
+<text class="t" x="925" y="780">Store buffer</text>
+<text class="s" x="925" y="799">Wait for commit</text>
+<rect class="gbox" x="680" y="852" width="320" height="30"/>
+<text class="t" x="840" y="872" style="font-size:15px">S0-S2 / tagged memory completion</text>
+<rect class="xbox" x="110" y="1010" width="230" height="65"/>
+<text class="tg" x="225" y="1038">L1 I-cache</text>
+<text class="sg" x="225" y="1058">Separate miss / refill</text>
+<rect class="xbox" x="880" y="980" width="840" height="185"/>
+<text class="tg" x="1300" y="1056" style="font-size:24px">Shared L1 D-cache / HPDCache</text>
+<text class="sg" x="1300" y="1082">32 KiB · 128 sets × 4 ways · 64-byte lines · write-through</text>
+<text class="s" x="1300" y="1108" style="fill:#2d3748;font-size:15px">Native arbitration / SID routing · nonblocking misses / MSHRs · write buffer</text>
+<rect class="gbox" x="550" y="980" width="240" height="65"/>
+<text class="t" x="670" y="1008">CPU D-cache adapter</text>
+<text class="s" x="670" y="1027">dcache_interface · SID 1</text>
+<rect class="gbox" x="550" y="1105" width="240" height="60"/>
+<text class="t" x="670" y="1132">PTW HPDCache adapter</text>
+<text class="s" x="670" y="1151">Native requester · SID 0</text>
+<rect class="contp2" x="1485" y="238" width="455" height="105"/>
+<text class="pt" x="1500" y="257" style="font-size:14px; text-anchor:start">Metadata fetch · in order of availability</text>
+<rect class="pbox" x="1500" y="268" width="190" height="64"/>
+<text class="pt" x="1595" y="288" style="font-size:13.5px">1. RDSmap fetch</text>
+<text class="ps" x="1595" y="306">defID → set bounds</text>
+<text class="ps" x="1595" y="322">issued as soon as RR sends</text>
+<rect class="pbox" x="1720" y="268" width="190" height="64"/>
+<text class="pt" x="1815" y="288" style="font-size:13.5px">2. RDSet fetch</text>
+<text class="ps" x="1815" y="306">set bounds → RDSet</text>
+<text class="ps" x="1815" y="322">after RDSmap returns</text>
+<rect class="contp2" x="1485" y="360" width="455" height="420"/>
+<text class="pt" x="1650" y="383" style="font-size:15px; text-anchor:start">DFI Controller</text>
+<rect class="pbox" x="1500" y="395" width="410" height="70"/>
+<text class="pt" x="1705" y="417" style="font-size:14px">Request table · indexed by GL entry</text>
+<text class="ps" x="1705" y="437">defID · L/S · RDSet · PA · status</text>
+<text class="ps" x="1705" y="455">mem op @ GL[i−1] · custom0 @ GL[i] · flush: squash ≥ idx</text>
+<rect class="pbox" x="1500" y="493" width="190" height="70"/>
+<text class="pt" x="1595.0" y="515" style="font-size:13.5px">Store → load forwarding</text>
+<text class="ps" x="1595.0" y="534">Older uncommitted store,</text>
+<text class="ps" x="1595.0" y="551">same PA → writer ID</text>
+<rect class="pbox" x="1720" y="493" width="190" height="70"/>
+<text class="pt" x="1815.0" y="515" style="font-size:13.5px">RDTable index calc</text>
+<text class="ps" x="1815.0" y="534">PA → RDTable index</text>
+<text class="ps" x="1815.0" y="551">loads: lookup · stores: stage</text>
+<rect class="pbox" x="1500" y="591" width="190" height="70"/>
+<text class="pt" x="1595.0" y="613" style="font-size:13.5px">RDSet check</text>
+<text class="ps" x="1595.0" y="632">writer ID ∈ RDSet[defID]</text>
+<text class="ps" x="1595.0" y="649">source: forward OR RDTable</text>
+<rect class="pbox" x="1720" y="591" width="190" height="70"/>
+<text class="pt" x="1815.0" y="613" style="font-size:13.5px">3. RDTable fetch · RW</text>
+<text class="ps" x="1815.0" y="632">PA ready → entry from L1</text>
+<text class="ps" x="1815.0" y="649">stores: update on graduate</text>
+<rect class="pbox" x="1500" y="689" width="190" height="70"/>
+<text class="pt" x="1595" y="709" style="font-size:13.5px">Verdict · GL interface</text>
+<rect x="1506" y="721" width="84" height="26" fill="#e0f4e9" stroke="#2f936a" stroke-width="1"/>
+<rect x="1600" y="721" width="84" height="26" fill="#fbe6e8" stroke="#c75d6a" stroke-width="1"/>
+<text x="1548" y="738" style="font-size:12px;font-weight:bold;text-anchor:middle;fill:#186744">PASS · OK</text>
+<text x="1642" y="738" style="font-size:12px;font-weight:bold;text-anchor:middle;fill:#a33949">FAIL · TRAP</text>
+<rect class="pbox" x="1485" y="805" width="455" height="60"/>
+<text class="pt" x="1712" y="829" style="font-size:15px">DFI HPDCache adapter — SID 2</text>
+<text class="ps" x="1712" y="849" style="font-size:12px">RDSmap / RDSet reads · RDTable read / update · shared arbitration</text>
+<rect class="xbox" x="2110" y="270" width="330" height="100"/>
+<text class="tg" x="2275" y="315">Lower-memory interfaces</text>
+<text class="sg" x="2275" y="340" style="font-size:15px">I-cache refill · D-cache read / write</text>
+<text x="2112" y="434" style="font-size:16px;font-weight:bold;fill:#2d3748">Configuration-dependent backing</text>
+<text x="2112" y="461" style="font-size:15px;fill:#6b7280">RTL simulation: l2_behav + DPI</text>
+<text x="2112" y="489" style="font-size:15px;fill:#6b7280">FPGA: AXI4 adaptation</text>
+<rect class="contg" x="2110" y="600" width="330" height="400"/>
+<text x="2128" y="635" style="font-size:20px;font-weight:bold;fill:#2d3748">L2 / Main Memory</text>
+<rect class="xbox" x="2130" y="660" width="290" height="52"/>
+<text class="tg" x="2275" y="692">Program code / data</text>
+<text x="2130" y="765" style="font-size:16px;font-weight:bold;fill:#3b2f72">Reserved DFI metadata regions</text>
+<rect class="pbox" x="2130" y="785" width="290" height="50"/>
+<text class="pt" x="2275" y="815">RDTable · last writer / 4-byte unit</text>
+<rect class="pbox" x="2130" y="860" width="135" height="75"/>
+<text class="pt" x="2197" y="884" style="font-size:15px">RDSmap</text>
+<text class="ps" x="2197" y="903" style="font-size:14px">Load ID →</text>
+<text class="ps" x="2197" y="921" style="font-size:14px">set bounds</text>
+<rect class="pbox" x="2285" y="860" width="135" height="75"/>
+<text class="pt" x="2352" y="884" style="font-size:15px">RDSet</text>
+<text class="ps" x="2352" y="903" style="font-size:14px">Permitted</text>
+<text class="ps" x="2352" y="921" style="font-size:14px">writer IDs</text>
+<path class="ln" d="M210,341 H234" marker-end="url(#arr)"/>
+<path class="ln" d="M334,341 H358" marker-end="url(#arr)"/>
+<path class="ln" d="M458,341 H482" marker-end="url(#arr)"/>
+<path class="ln" d="M582,341 H606" marker-end="url(#arr)"/>
+<path class="ln" d="M716,341 H740" marker-end="url(#arr)"/>
+<path class="ln" d="M850,341 H894" marker-end="url(#arr)"/>
+<path class="ln" d="M284,377 V660 H80 V1042 H110" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text class="lbl" x="100" y="651">Fetch / instructions</text>
+<path class="ln" d="M636,377 V512 H680" marker-end="url(#arr)"/>
+<text class="lblr" x="626" y="482">Allocate /</text>
+<text class="lblr" x="626" y="498">assign GL index</text>
+<path class="ln" d="M770,377 V420 H642 a6,6 0 0 0 -12,0 H460 V795 H510" marker-end="url(#arr)"/>
+<text class="lbl" x="476" y="441">Address + operation</text>
+<text class="lbl" x="476" y="457">+ GL index</text>
+<path class="ln" d="M920,377 V470" marker-end="url(#arr)"/>
+<path class="ln" d="M1000,867 H1360 V415 H979 V377" marker-end="url(#arr)"/>
+<text class="lblr" x="1350" y="406">Out-of-order WB · GL index</text>
+<path class="ln" d="M960,500 H1090" marker-end="url(#arr)"/>
+<path class="dash" d="M1090,520 H960" marker-end="url(#arr)"/>
+<path class="dash" d="M1105,555 V590 H925 V755" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text class="lblr" x="915" y="612">Commit / stall</text>
+<text class="lblr" x="915" y="628">+ GL index</text>
+<path class="ln" d="M650,775 H680" marker-end="url(#arr)"/>
+<path class="ln" d="M810,785 H850" marker-end="url(#arr)"/>
+<path class="ln" d="M745,815 V852" marker-end="url(#arr)"/>
+<path class="ln" d="M925,815 V852" marker-end="url(#arr)"/>
+<path class="dash" d="M342,782 H430 V833 H665 V802 H680" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text class="lbl" x="500" y="850">DTLB req / PPN</text>
+<path class="ln" d="M195,806 V852" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<path class="ln" d="M297,806 V852" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<path class="dash" d="M145,806 V1010" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<path class="ln" d="M342,872 H400 V1135 H550" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text class="lbl" x="408" y="1120">Physical PTE access</text>
+<path class="ln" d="M950,882 V955 H670 V980" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text class="lbl" x="680" y="947">Program loads / committed stores</text>
+<path class="ln" d="M790,1012 H880" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<path class="ln" d="M790,1135 H880" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<path class="ln" d="M1720,1072 H2020 V295 H2110" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text class="lblr" x="2010" y="930">Shared read / write</text>
+<text class="lblr" x="2010" y="947">and refill traffic</text>
+<path class="ln" d="M225,1075 V1205 H2040 V345 H2110" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<text class="lbl" x="700" y="1196">I-cache miss / refill · independent path</text>
+<path class="ln" d="M2425,370 V600" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<path class="lp" d="M661,305 V290 H1410 V407 H1500" marker-end="url(#arrp)"/>
+<text class="plbl" x="700" y="282">RR → DFI Coprocessor: defID · L/S · GL entry</text>
+<path class="lp" d="M1690,300 H1720" marker-end="url(#arrp)"/>
+<path class="lp" d="M1595,395 V332" marker-end="url(#arrp)"/>
+<text class="plbl" x="1603" y="357">defID</text>
+<path class="lp" d="M1815,332 V395" marker-end="url(#arrp)"/>
+<text class="plbl" x="1823" y="357">RDSet</text>
+<path class="lp" d="M1340,640 H1352 a8,8 0 0 1 16,0 H1428 V425 H1500" marker-end="url(#arrp)"/>
+<path class="lp" d="M1340,799 H1352 a8,8 0 0 1 16,0 H1446 V443 H1500" marker-end="url(#arrp)"/>
+<path class="lp" d="M1030,799 H1110" marker-end="url(#arrp)"/>
+<text class="plbl" x="1038" y="791">PA · GL idx</text>
+<path class="lp" d="M1500,700 H1454 a8,8 0 0 0 -16,0 H1368 a8,8 0 0 0 -16,0 H1340" marker-end="url(#arrp)"/>
+<path class="lp" d="M1110,655 H1062 V598 a8,8 0 0 1 0,-16 V543 H960" marker-start="url(#arrp)" marker-end="url(#arrp)"/>
+<text class="plblr" x="1052" y="617">Pair check ·</text>
+<text class="plblr" x="1052" y="632">set OK bits ·</text>
+<text class="plblr" x="1052" y="647">store-grad sense ·</text>
+<text class="plblr" x="1052" y="662">flush sense</text>
+<path class="lp" d="M1595,465 V493" marker-end="url(#arrp)"/>
+<path class="lp" d="M1815,465 V493" marker-end="url(#arrp)"/>
+<path class="lp" d="M1595,563 V591" marker-end="url(#arrp)"/>
+<path class="lp" d="M1705,465 V613 H1690" marker-end="url(#arrp)"/>
+<text class="plbl" x="1710" y="482">RDSet</text>
+<path class="lp" d="M1815,563 V591" marker-end="url(#arrp)"/>
+<path class="lp" d="M1720,626 H1690" marker-end="url(#arrp)"/>
+<path class="lp" d="M1815,661 V805" marker-start="url(#arrp)" marker-end="url(#arrp)"/>
+<path class="lp" d="M1595,661 V689" marker-end="url(#arrp)"/>
+<path class="lp" d="M1940,290 H1983 V835 H1940" marker-start="url(#arrp)" marker-end="url(#arrp)"/>
+<text transform="translate(1972,560) rotate(-90)" style="font-size:12px;fill:#5b4a9a;text-anchor:middle">RDSmap / RDSet fetch · direct to L1</text>
+<text class="plbl" x="1818" y="745">RDTable read / update</text>
+<path class="lp" d="M1600,865 V980" marker-start="url(#arrp)" marker-end="url(#arrp)"/>
+<text class="plbl" x="1612" y="935">SID 2 · direct to L1 · no L0</text>
+<path class="lp" d="M1340,722 H1352 a8,8 0 0 1 16,0 H1438 a8,8 0 0 1 16,0 H1464 V708 a8,8 0 0 1 0,-16 V461 H1500" marker-end="url(#arrp)"/>
+<text class="plbl" x="1374" y="716">Flush</text>
+<rect class="gbox" x="1100" y="424" width="120" height="36"/>
+<text class="t" x="1160" y="447" style="font-size:15px">Control unit</text>
+<path class="ln" d="M1100,442 H940 V470" marker-end="url(#arr)"/>
+<text class="lbl" x="950" y="458">Flush signal</text>
+<text x="53" y="1280" style="font-size:15px;fill:#3b2f72">Purple: proposed pre-commit DFI</text>
+<text x="53" y="1306" style="font-size:15px;fill:#3b2f72">Dashed purple outline: baseline block modified for DFI</text>
+<text x="2440" y="1280" style="font-size:15px;fill:#6b7280;text-anchor:end">Green: Sargantana · Gray: shared hardware</text>
+<text x="53" y="1348" style="font-size:13px;fill:#6b7280">Sources: supplied Sargantana baseline / pre-commit flow · Sargantana paper §III · Feng et al., RVDFI §4</text>
+<text x="2440" y="1348" style="font-size:13px;fill:#6b7280;text-anchor:end">↔ request / response   Dashed: control / translation</text>
+</svg>
