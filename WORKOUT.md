@@ -1,33 +1,34 @@
-## Zone 2 Cardio
+## Cardio
 
-| Treadmill     | Time Split (R\|W) | Avg Speed Split (R\|W) |
-| :------------ | :---------------: | :--------------------: |
-| Open Run      |                   |                        |
-| Treadmill Run |                   |                        |
+| Treadmill | Time | Avg Speed | Distance | Avg HR |
+| :-------- | :--: | :-------: | -------- | ------ |
+| Zone 2    |  30  |   5.35    | 2.69 km  | 133    |
+| Zone 4/5  |  5   |     8     | 0.8 km   | 167    |
 
 ---
 
 ## Push
 
-| Exercise                                                                             | Target (sets/reps) |  Set 1   |  Set 2  |  Set 3   | Next |
-| :----------------------------------------------------------------------------------- | :----------------: | :------: | :-----: | :------: | :--- |
-| [Bench Press](https://www.youtube.com/shorts/XjrsqShr-Ic)                            |      2 (6-8)       | 45 \| 6  | 40 \| 8 |    x     | =    |
-| [Machine Overhead Press](https://youtube.com/shorts/Gkk-6q7Rq-s?si=A6I3bvSoW6NGTy6T) |      2 (6-8)       | 32 \| 8  | 32 \| 6 |    x     | =    |
-| [Machine Chest Fly](https://www.youtube.com/shorts/XZg28DIf1oc)                      |      2 (8-10)      | 64 \| 8  | 59 \| 8 |    x     | =    |
-| [Tricep Pushdown](https://www.youtube.com/shorts/Rc7-euA8FDI)                        |      3 (8-10)      | 46 \| 10 | 46 \| 9 | 46 \| 8  | +    |
-| [Lever Lateral Raises](https://www.youtube.com/shorts/EL_xr3NVUbc)                   |      3 (8-12)      | 32 \| 10 | 32 \| 8 | 27 \| 10 | =    |
+| Exercise                                                                             | Target (sets/reps) |  Set 1   |  Set 2   |  Set 3   | Next |
+| :----------------------------------------------------------------------------------- | :----------------: | :------: | :------: | :------: | :--- |
+| [Bench Press](https://www.youtube.com/shorts/XjrsqShr-Ic)                            |      2 (6-8)       | 45 \| 8  | 45 \| 8  |    x     | +    |
+| [Machine Overhead Press](https://youtube.com/shorts/Gkk-6q7Rq-s?si=A6I3bvSoW6NGTy6T) |      2 (6-8)       | 27 \| 6  | 27 \| 6  |    x     | =    |
+| [Machine Chest Fly](https://www.youtube.com/shorts/XZg28DIf1oc)                      |      2 (8-10)      | 64 \| 8  | 64 \| 6  |    x     | =    |
+| [Overhead Cable Extensions](https://www.youtube.com/shorts/68NDeHB1WSc)              |      3 (6-10)      | 27 \| 8  | 27 \| 8  | 27 \| 8  |      |
+| [Tricep Pushdown](https://www.youtube.com/shorts/Rc7-euA8FDI)                        |      3 (8-10)      | 50 \| 10 | 50 \| 10 | 50 \| 8  | +    |
+| [Lever Lateral Raises](https://www.youtube.com/shorts/EL_xr3NVUbc)                   |      3 (8-12)      | 32 \| 10 | 27 \| 12 | 27 \| 10 | = +  |
 
 ---
 
 ## Pull
 
-| Exercise                                                            | Target (sets/reps) |   Set 1   |   Set 2   |   Set 3   | Next |
-| :------------------------------------------------------------------ | :----------------: | :-------: | :-------: | :-------: | :--- |
-| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)     |      2 (4-6)       | -27 \| 4  | -36 \| 3  |     x     | -    |
-| [Seated Cable Row](https://www.youtube.com/shorts/qD1WZ5pSuvk)      |      2 (6-8)       |  50 \| 8  |  47 \| 8  |     x     | =    |
-| [Face Pulls](https://www.youtube.com/shorts/IeOqdw9WI90)            |      3 (8-12)      |  41 \| 8  |  45\| 8   |  36 \| 9  | +    |
-| [Bicep Curls](https://www.youtube.com/shorts/MKWBV29S6c0)           |      3 (6-10)      | 12.5 \| 8 | 12.5 \| 8 | 12.5 \| 6 | =    |
-| [Reverse Forearm curls](https://www.youtube.com/shorts/yz2eCSWoY4E) |      3 (8-12)      |           |           |           |      |
+| Exercise                                                            | Target (sets/reps) |   Set 1   |   Set 2   |              Set 3               | Next          |
+| :------------------------------------------------------------------ | :----------------: | :-------: | :-------: | :------------------------------: | :------------ |
+| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)     |      2 (3-4)       | -18 \| 2  | -23 \| 3  | Exhaust lats with pulldowns (59) | =             |
+| [Seated Cable Row](https://www.youtube.com/shorts/qD1WZ5pSuvk)      |      2 (6-8)       |  50 \| 6  |  45 \| 8  |                x                 | =             |
+| [Face Pulls](https://www.youtube.com/shorts/IeOqdw9WI90)            |      3 (8-12)      |  46 \| 9  |  46 \| 8  |             36 \| 9              | - do 45 or 46 |
+| [Bicep Curls](https://www.youtube.com/shorts/MKWBV29S6c0)           |      3 (6-10)      | 12.5 \| 9 | 12.5 \| 8 |            12.5 \| 6             | =             |
+| [Reverse Forearm curls](https://www.youtube.com/shorts/yz2eCSWoY4E) |      3 (8-12)      |           |           |                                  |               |
 
 ---
 
