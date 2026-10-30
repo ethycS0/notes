@@ -1,4 +1,4 @@
-[[INDEX]] | [[addressing-and-caches/virtual-and-physical-addressing]] | [[addressing-and-caches/cache-side-channel-attacks]]
+[[security/meltdown/INDEX]] | [[addressing-and-caches/virtual-and-physical-addressing]] | [[addressing-and-caches/cache-side-channel-attacks]]
 
 CPU caches are small, ultra-fast hardware memories integrated directly into the processor core to bridge the massive speed gap between fast CPU execution units and slow main system RAM. Caches operate transparently to software using a hierarchy of levels: Level 1 (L1 Data and Instruction caches, fastest, ~4 clock cycles latency, per-core), Level 2 (L2 cache, ~12 cycles latency, usually per-core), and Last Level Cache (LLC / L3, ~40-60 cycles latency, shared across CPU cores), compared to main DRAM access which takes over 200 clock cycles.
 

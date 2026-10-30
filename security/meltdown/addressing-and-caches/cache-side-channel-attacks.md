@@ -1,8 +1,6 @@
-[[INDEX]] | [[addressing-and-caches/virtual-and-physical-addressing]] | [[addressing-and-caches/cpu-caches]]
+[[security/meltdown/INDEX]] | [[addressing-and-caches/virtual-and-physical-addressing]] | [[addressing-and-caches/cpu-caches]]
 
 Cache side-channel attacks exploit timing differences in memory access latency (cache hits vs. cache misses) to extract sensitive information across security boundaries. In transient execution attacks like Meltdown, the cache serves as a microarchitectural covert channel: transient instructions transmit secret data into cache residency, and the attacker receives the transmitted data by measuring memory access times.
-
-![Flush+Reload Attack Sequence](flush-reload-attack.jpg)
 
 ## Flush+Reload Attack Technique
 
@@ -22,4 +20,4 @@ While Meltdown uses Flush+Reload due to its high reliability and signal-to-noise
 - **Prime+Probe:** Operates without shared memory by filling (priming) an entire CPU cache set with attacker data, waiting for victim execution, and then measuring access times (probing) to identify which cache sets were evicted by victim activity.
 
 ---
-*Return to [[INDEX]]*
+*Return to [[security/meltdown/INDEX]]*

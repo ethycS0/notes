@@ -1,4 +1,4 @@
-[[INDEX]] | [[general-concept]] | [[intel-x86-pipeline]]
+[[security/meltdown/INDEX]] | [[general-concept]] | [[intel-x86-pipeline]]
 
 [Good Video Explanation](https://www.youtube.com/watch?v=EzEKGlO9w4Y&t)
 

@@ -1,3 +1,4 @@
+# New Pass Manager Notes
 
 The LLVM New Pass Manager (NPM)—introduced to replace the legacy `llvm::Pass` infrastructure—is a high-performance, template-driven framework for running transformations and analyses over LLVM IR.
 

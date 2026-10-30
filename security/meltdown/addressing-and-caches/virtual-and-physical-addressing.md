@@ -1,4 +1,4 @@
-[[INDEX]] | [[addressing-and-caches/cpu-caches]] | [[addressing-and-caches/cache-side-channel-attacks]]
+[[security/meltdown/INDEX]] | [[addressing-and-caches/cpu-caches]] | [[addressing-and-caches/cache-side-channel-attacks]]
 
 Modern operating systems isolate processes using virtual memory, mapping virtual addresses used by applications to physical addresses in system RAM via hardware page translation tables managed by the Memory Management Unit (MMU). On x86_64 architectures, virtual addresses are 64 bits wide (typically using 48 canonical bits), structured into a multi-level page table hierarchy (Page Global Directory PGD, Page Upper Directory PUD, Page Middle Directory PMD, and Page Table Entry PTE). Each page table entry stores the physical frame base address along with protection flags, including the User/Supervisor (`U/S`) flag bit which designates whether a memory page is accessible in unprivileged user mode (Ring 3) or restricted to kernel mode (Ring 0).
 

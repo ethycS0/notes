@@ -1,4 +1,4 @@
-[[INDEX]] | [[general-concept]] | [[tomasulo-algorithm]] | [[intel-x86-pipeline]]
+[[security/meltdown/INDEX]] | [[general-concept]] | [[tomasulo-algorithm]] | [[intel-x86-pipeline]]
 
 Instruction Retirement is the final stage of the out-of-order pipeline where transient microarchitectural states are permanently committed to the architectural state of the CPU. The Reorder Buffer (ROB) functions as a first-in, first-out (FIFO) queue that tracks every issued micro-operation ($\mu$OP) in strict program order. Although $\mu$OPs execute out of order across various functional units as soon as their data dependencies clear, they cannot modify architectural registers or memory until they reach the head (top) of the ROB FIFO queue and retire.
 
@@ -9,4 +9,4 @@ When the faulting instruction finally reaches the head of the ROB and attempts t
 However, the hardware rollback mechanism only cleans up architectural state; it does not undo changes made to microarchitectural state. During the transient execution window, dependent instructions executed speculatively using the illegally fetched data. If one of those transient instructions accessed a user-space memory address based on the secret kernel byte, that memory access loads a specific line into the L1 data cache. When the ROB flushes and rolls back the architectural state, the altered cache line remains in the L1 cache. By measuring cache access latencies after suppressing or handling the exception (using techniques like `Flush+Reload`), an attacker extracts the kernel secret byte, completely bypassing architectural memory protection.
 
 ---
-*Return to [[INDEX]]*
+*Return to [[security/meltdown/INDEX]]*

@@ -1,4 +1,4 @@
-[[INDEX]] | [[tomasulo-algorithm]] | [[intel-x86-pipeline]]
+[[security/meltdown/INDEX]] | [[tomasulo-algorithm]] | [[intel-x86-pipeline]]
 
 Out-of-Order (OoO) execution is a microarchitectural optimization design that allows a processor to execute instructions as soon as their required operands and execution units become available, rather than waiting for prior instructions in strict code order. In traditional in-order execution pipelines, if an instruction encounters a latency delay—such as a cache miss or a long floating-point operation—the entire pipeline stalls, preventing subsequent independent instructions from executing. OoO execution overcomes this bottleneck by dynamically reordering the execution stream, keeping CPU execution units fully utilized while guaranteeing that the program's observable results match in-order execution semantics.
 

@@ -1,5 +1,5 @@
 
-[[INDEX]] | **Related Paper:** *Meltdown: Reading Kernel Memory from User Space* (USENIX Security 2018)
+[[security/meltdown/INDEX]] | **Related Paper:** *Meltdown: Reading Kernel Memory from User Space* (USENIX Security 2018)
 
 ## Overview
 

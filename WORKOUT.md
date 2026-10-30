@@ -1,3 +1,5 @@
+# WORKOUT
+
 ## Cardio
 
 | Treadmill | Time | Avg Speed | Distance | Avg HR |
@@ -6,7 +8,6 @@
 | Zone 4/5  |  5   |     8     | 0.8 km   | 167    |
 
 ---
-
 ## Push
 
 | Exercise                                                                             | Target (sets/reps) |  Set 1   |  Set 2   |  Set 3   | Next |
@@ -19,7 +20,6 @@
 | [Lever Lateral Raises](https://www.youtube.com/shorts/EL_xr3NVUbc)                   |      3 (8-12)      | 32 \| 10 | 27 \| 12 | 27 \| 10 | = +  |
 
 ---
-
 ## Pull
 
 | Exercise                                                            | Target (sets/reps) |   Set 1    |   Set 2   |   Set 3   | Next          |
@@ -32,7 +32,6 @@
 | [Reverse Forearm curls](https://www.youtube.com/shorts/yz2eCSWoY4E) |      3 (8-12)      |  10 \| 10  | 10 \| 10  | 10 \| 10  | =             |
 
 ---
-
 ## Legs
 
 | Exercise                                                                 | Target (sets/reps) |     Set 1     |    Set 2     |    Set 3     | Next |
@@ -60,22 +59,20 @@
 | [Lever Lateral Raises](https://www.youtube.com/shorts/EL_xr3NVUbc)                   |      3 (8-10)      |  32 \| 10   |  32 \| 8   |  27 \| 10  | =    |
 
 ---
-
 ## Mobility
 
-| **Joint / Muscle**     | **Exercise**                                                           | **Target**           | **Notes**                        |
-| ---------------------- | ---------------------------------------------------------------------- | -------------------- | -------------------------------- |
-| **Neck**               | [Neck CARs](https://www.youtube.com/watch?v=J3tkQ4pk_Sc)               | 5 reps/side          | Slow smooth circles              |
-| **Shoulders**          | [Band Pass-Throughs](https://www.youtube.com/watch?v=7GSSVK8iXU0)      | 10 reps              | Sweep overhead with band         |
-| **Upper Back**         | [Band Pull-Aparts](https://www.youtube.com/watch?v=3OYSIWaJJk4)        | 15 reps              | Pull to chest, squeeze back      |
-| **Shoulders & Spine**  | [Scapular Dead Hangs](https://www.youtube.com/watch?v=V0hzdT1CZnk)     | 30s total + 5 shrugs | Hang loose + scapular shrugs     |
-| **Wrists & Forearms**  | [5kg Reverse Wrist Curls](https://www.youtube.com/watch?v=krZ6pWGZ8xo) | 2 × 12               | Palm down on thigh               |
-| **Wrists & Forearms**  | [Quadruped Wrist Rockers](https://www.youtube.com/watch?v=UC6rd7rbk1A) | 30s hold             | Palms flat, fingers turned back  |
-| **Hips**               | [90/90 Hip Switches](https://www.youtube.com/watch?v=m51AZSXMvEA)      | 10 total             | Pivot on heels, hands free       |
-| **Hip Flexors**        | [Kneeling Flexor](https://www.youtube.com/watch?v=34SlL-PPCWQ)         | 20s/side             | Squeeze glute & tilt pelvis      |
-| **Knees**              | [Wall Sit](https://www.youtube.com/watch?v=-cdph8hv0O0)                | 45s                  | Back against wall & sit in squat |
-| **Ankles & Shins**<br> | [Tibialis Wall Raises](https://www.youtube.com/watch?v=VzIcGAgBiaM)    | 15 reps              | Back against wall, pull toes up  |
+| **Joint / Muscle**        | **Exercise**                                                                                                         | **Target**           | **Notes**                        |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------- |
+| **Neck**                  | [Neck CARs](https://www.youtube.com/watch?v=J3tkQ4pk_Sc)                                                             | 5 reps/side          | Slow smooth circles              |
+| **Shoulders**             | [Band Pass-Throughs](https://www.youtube.com/watch?v=7GSSVK8iXU0)                                                    | 10 reps              | Sweep overhead with band         |
+| **Upper Back**            | [Band Pull-Aparts](https://www.youtube.com/watch?v=3OYSIWaJJk4)                                                      | 15 reps              | Pull to chest, squeeze back      |
+| **Shoulders & Spine**     | [Scapular Dead Hangs](https://www.youtube.com/watch?v=V0hzdT1CZnk)                                                   | 30s total + 5 shrugs | Hang loose + scapular shrugs     |
+| **Wrists & Forearms**     | [5kg Reverse Wrist Curls](https://www.youtube.com/watch?v=krZ6pWGZ8xo)                                               | 2 × 12               | Palm down on thigh               |
+| **Wrists & Forearms**     | [Quadruped Wrist Rockers](https://www.youtube.com/watch?v=UC6rd7rbk1A)                                               | 30s hold             | Palms flat, fingers turned back  |
+| **Hips**                  | [90/90 Hip Switches](https://www.youtube.com/watch?v=m51AZSXMvEA)                                                    | 10 total             | Pivot on heels, hands free       |
+| **Hip internal rotation** | [Internal Rotation Movements]([https://www.youtube.com/watch?v=m51AZSXMvEA](https://youtube.com/shorts/RkkWfy2w-OA)) |                      |                                  |
+| **Hip Flexors**           | [Kneeling Flexor](https://www.youtube.com/watch?v=34SlL-PPCWQ)                                                       | 20s/side             | Squeeze glute & tilt pelvis      |
+| **Knees**                 | [Wall Sit](https://www.youtube.com/watch?v=-cdph8hv0O0)                                                              | 45s                  | Back against wall & sit in squat |
+| **Ankles & Shins**<br>    | [Tibialis Wall Raises](https://www.youtube.com/watch?v=VzIcGAgBiaM)                                                  | 15 reps              | Back against wall, pull toes up  |
 
 ---
-
-Hip internal rotation https://youtube.com/shorts/RkkWfy2w-OA

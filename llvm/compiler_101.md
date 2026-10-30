@@ -1,5 +1,6 @@
-![[Pasted image 20260828121327.png]]
+# Compiler 101
 
+![[Pasted image 20260828121327.png]]
 ## 1. The Core Conceptual Model: "Climbing the Mountain"
 
 A compiler pipeline is best conceptualized as climbing up and down a mountain:

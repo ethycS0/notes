@@ -1,8 +1,6 @@
-[[INDEX]] | [[general-concept]] | [[tomasulo-algorithm]] | [[exception-handling-and-retirement]]
+[[security/meltdown/INDEX]] | [[general-concept]] | [[tomasulo-algorithm]] | [[exception-handling-and-retirement]]
 
 Modern Intel x86 microarchitectures implement out-of-order execution through a hybrid pipeline divided into three major subsystems: the Front-End, the Execution Engine (Back-End), and the Memory Subsystem. Because the x86 Complex Instruction Set Computer (CISC) ISA features complex, variable-length instructions, the processor cannot execute raw x86 instructions directly out of order. Instead, the Front-End fetches x86 instructions, predicts branches, and decodes them into simple, RISC-like micro-operations ($\mu$OPs) which are fed continuously into the execution pipeline.
-
-![[Pasted image 20260830140713.png]]
 
 The Execution Engine processes these decoded $\mu$OPs out of order. At its core sits the Allocation/Renaming stage and the Reorder Buffer (ROB). The ROB allocates internal physical registers and manages register renaming, resolving false data dependencies. It also applies microarchitectural optimizations directly, such as move elimination (resolving `mov` instructions without firing an execution unit) and zeroing idioms (recognizing instructions like `xor eax, eax` to set registers to zero without latency). Once renamed, $\mu$OPs are forwarded to the Unified Reservation Station (Scheduler). The scheduler queues operations across multiple dispatch exit ports connected to specialized Execution Units—including Arithmetic Logic Units (ALUs), vector processing units, Address Generation Units (AGUs), and memory load/store units.
 
