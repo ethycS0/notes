@@ -12,24 +12,24 @@
 
 | Exercise                                                                             | Target (sets/reps) |  Set 1   |  Set 2   |  Set 3   | Next |
 | :----------------------------------------------------------------------------------- | :----------------: | :------: | :------: | :------: | :--- |
-| [Bench Press](https://www.youtube.com/shorts/XjrsqShr-Ic)                            |      2 (6-8)       | 45 \| 8  | 45 \| 8  |    x     | +    |
-| [Machine Overhead Press](https://youtube.com/shorts/Gkk-6q7Rq-s?si=A6I3bvSoW6NGTy6T) |      2 (6-8)       | 27 \| 6  | 27 \| 6  |    x     | =    |
+| [Bench Press](https://www.youtube.com/shorts/XjrsqShr-Ic)                            |      2 (4-8)       | 50 \| 4  | 45 \| 7  |  40 \|   | +    |
+| [Machine Overhead Press](https://youtube.com/shorts/Gkk-6q7Rq-s?si=A6I3bvSoW6NGTy6T) |      2 (6-8)       | 27 \| 8  | 27 \| 6  |    x     | =    |
 | [Machine Chest Fly](https://www.youtube.com/shorts/XZg28DIf1oc)                      |      2 (8-10)      | 64 \| 8  | 64 \| 6  |    x     | =    |
-| [Overhead Cable Extensions](https://www.youtube.com/shorts/68NDeHB1WSc)              |      3 (6-10)      | 27 \| 8  | 27 \| 8  | 27 \| 8  | =    |
 | [Tricep Pushdown](https://www.youtube.com/shorts/Rc7-euA8FDI)                        |      3 (8-10)      | 50 \| 10 | 50 \| 10 | 50 \| 8  | +    |
+| [Overhead Cable Extensions](https://www.youtube.com/shorts/68NDeHB1WSc)              |      3 (6-10)      | 27 \| 8  | 27 \| 8  | 27 \| 8  | =    |
 | [Lever Lateral Raises](https://www.youtube.com/shorts/EL_xr3NVUbc)                   |      3 (8-12)      | 32 \| 10 | 27 \| 12 | 27 \| 10 | = +  |
 
 ---
 ## Pull
 
-| Exercise                                                            | Target (sets/reps) |   Set 1    |   Set 2   |   Set 3   | Next          |
-| :------------------------------------------------------------------ | :----------------: | :--------: | :-------: | :-------: | :------------ |
-| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)     |      2 (3-4)       | -18 \| 2.5 | -23 \| 3  |     x     | =             |
-| [Lat Pulldown](https://www.youtube.com/watch?v=aoHXhJ2x2BQ)         |      2 (6-8)       |  64 \| 7   |  59 \| 8  |     x     | =             |
-| [Seated Cable Row](https://www.youtube.com/shorts/qD1WZ5pSuvk)      |      2 (6-8)       |  45 \| 8   |  45 \| 8  |     x     | +             |
-| [Face Pulls](https://www.youtube.com/shorts/IeOqdw9WI90)            |      3 (8-12)      |  46 \| 9   |  46 \| 8  |  36 \| 9  | - do 45 or 46 |
-| [Bicep Curls](https://www.youtube.com/shorts/MKWBV29S6c0)           |      3 (6-10)      | 12.5 \| 9  | 12.5 \| 8 | 12.5 \| 6 | =             |
-| [Reverse Forearm curls](https://www.youtube.com/shorts/yz2eCSWoY4E) |      3 (8-12)      |  10 \| 10  | 10 \| 10  | 10 \| 10  | =             |
+| Exercise                                                            | Target (sets/reps) |   Set 1    |   Set 2   |   Set 3   | Next |
+| :------------------------------------------------------------------ | :----------------: | :--------: | :-------: | :-------: | :--- |
+| [Assisted Pull Ups](https://www.youtube.com/shorts/eDP_OOhMTZ4)     |      2 (3-4)       | -18 \| 2.9 | -18 \| 2  |     x     | =    |
+| [Lat Pulldown](https://www.youtube.com/watch?v=aoHXhJ2x2BQ)         |      2 (6-8)       |  64 \| 6   |  59 \| 6  |     x     | =    |
+| [Seated Cable Row](https://www.youtube.com/shorts/qD1WZ5pSuvk)      |      2 (6-8)       |  50 \| 7   |  45 \| 8  |     x     | =    |
+| [Face Pulls](https://www.youtube.com/shorts/IeOqdw9WI90)            |      3 (8-12)      |  46 \| 9   |  46 \| 8  |  36 \| 9  | =    |
+| [Bicep Curls](https://www.youtube.com/shorts/MKWBV29S6c0)           |      3 (6-10)      | 12.5 \| 9  | 12.5 \| 8 | 12.5 \| 6 | =    |
+| [Reverse Forearm curls](https://www.youtube.com/shorts/yz2eCSWoY4E) |      3 (8-12)      |  10 \| 12  | 10 \| 10  |  10 \| 0  | =    |
 
 ---
 ## Legs
