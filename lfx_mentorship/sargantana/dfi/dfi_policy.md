@@ -54,7 +54,7 @@ The pair has:
 
 - One architectural completion outcome.
 - One fault and restart boundary, identified by the prefix PC.
-- Joint readiness for graduation.
+- Joint readiness for retirement.
 - Joint treatment during recovery.
 
 Although the pair consists of two instruction encodings, its components do not complete independently at the architectural level.
